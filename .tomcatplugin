@@ -7,5 +7,5 @@
     <updateXml>true</updateXml>
     <warLocation></warLocation>
     <extraInfo></extraInfo>
-    <webPath>/noovi_cloud_soluctions</webPath>
+    <webPath>/noovi_cloud_solutions</webPath>
 </tomcatProjectProperties>

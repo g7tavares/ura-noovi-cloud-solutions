@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="internal" filename="audio" version="">
+    <phrase version="1.0">
+        <displayname>msg001</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg001.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg002</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg002.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg003</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg003.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg004</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg004.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg005</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg005.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg006</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg006.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg007</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg007.wav</audiofile>
+    </phrase>
+</phraseset>

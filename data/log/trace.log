@@ -1,0 +1,2297 @@
+04/04/2022 12:29:30:505  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : SCESession bound to HttpSession 4E7E20D5E6F5DB9DF3321F4CC3BE6E60
+04/04/2022 12:29:30:509  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Browser Version 2.1.4, terminationURL enabled : true
+04/04/2022 12:29:30:524  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Using SCESession 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions servlet : Start
+04/04/2022 12:29:30:641  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : ** Pushed Stack Frame [/noovi_cloud_solutions]
+04/04/2022 12:29:30:673 DEBUG - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Not able to save posted variable information [call_classification]
+04/04/2022 12:29:30:673  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___sessionid to complex: session:sessionid  as [sess7074822]
+04/04/2022 12:29:30:674  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+04/04/2022 12:29:31:332  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : runtime_platform : Desktop
+04/04/2022 12:29:31:332  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : runtime_asr : SRGS-Literals
+04/04/2022 12:29:31:346 DEBUG - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Acquiring initial License
+04/04/2022 12:29:31:348  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Acquiring Desktop runtime license
+04/04/2022 12:29:31:349  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Runtime :true
+04/04/2022 12:29:31:349  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : IC :true
+04/04/2022 12:29:31:349  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : CTI :true
+04/04/2022 12:29:31:499 DEBUG - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Grace Period timer cleared
+04/04/2022 12:29:31:500 DEBUG - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : License refresh timer started
+04/04/2022 12:29:31:504  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : MessageType is speech
+04/04/2022 12:29:31:531  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Using SCESession 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions servlet : check_hora
+04/04/2022 12:29:31:533  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+04/04/2022 12:29:31:534  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+04/04/2022 12:29:31:534  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+04/04/2022 12:29:31:534  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+04/04/2022 12:29:31:534  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+04/04/2022 12:29:31:534  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___aai to complex: session:aai  as []
+04/04/2022 12:29:31:534  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___ani to complex: session:ani  as [undefined]
+04/04/2022 12:29:31:535  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___calltag to complex: session:calltag  as [unknown]
+04/04/2022 12:29:31:535  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___channel to complex: session:channel  as [0]
+04/04/2022 12:29:31:535  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+04/04/2022 12:29:31:535  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+04/04/2022 12:29:31:535  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___dnis to complex: session:dnis  as [undefined]
+04/04/2022 12:29:31:536  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+04/04/2022 12:29:31:536  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___protocolname to complex: session:protocolname  as [pots]
+04/04/2022 12:29:31:536  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+04/04/2022 12:29:31:536  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+04/04/2022 12:29:31:536  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+04/04/2022 12:29:31:536  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___ucid to complex: session:ucid  as [undefined]
+04/04/2022 12:29:31:537  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___uui to complex: session:uui  as [unknown]
+04/04/2022 12:29:31:537  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+04/04/2022 12:29:31:538  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+04/04/2022 12:29:31:538  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+04/04/2022 12:29:31:538  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+04/04/2022 12:29:31:539  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+04/04/2022 12:29:31:539  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___videofps to complex: session:videofps  as [unknown]
+04/04/2022 12:29:31:539  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+04/04/2022 12:29:31:539  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+04/04/2022 12:29:31:539  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+04/04/2022 12:29:31:540  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+04/04/2022 12:29:31:540  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+04/04/2022 12:29:31:540  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+04/04/2022 12:29:31:540  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+04/04/2022 12:29:31:540  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+04/04/2022 12:29:31:541  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+04/04/2022 12:29:31:610  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : [condition1] Expression [time:hour] Numeric Greater Than [6]
+04/04/2022 12:29:31:611  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : [expression1] Expression [time:hour] Numeric Less Than [12]
+04/04/2022 12:29:31:624  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Using SCESession 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions servlet : speak_dia
+04/04/2022 12:29:31:702  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Using SCESession 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions servlet : menu_opcoes
+04/04/2022 12:29:40:876  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Using SCESession 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions servlet : speak_transfere
+04/04/2022 12:29:40:877  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :menu_opcoes___confidence to complex: menu_opcoes:confidence  as [0.949999988079071]
+04/04/2022 12:29:40:878  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :menu_opcoes___inputmode to complex: menu_opcoes:inputmode  as [dtmf]
+04/04/2022 12:29:40:878  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :menu_opcoes___interpretation to complex: menu_opcoes:interpretation  as [9]
+04/04/2022 12:29:40:878  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :menu_opcoes___noinputcount to complex: menu_opcoes:noinputcount  as [0]
+04/04/2022 12:29:40:878  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :menu_opcoes___nomatchcount to complex: menu_opcoes:nomatchcount  as [0]
+04/04/2022 12:29:40:878  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :menu_opcoes___utterance to complex: menu_opcoes:utterance  as [9]
+04/04/2022 12:29:40:878  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Storing :menu_opcoes___value to complex: menu_opcoes:value  as [9]
+04/04/2022 12:29:40:950  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Using SCESession 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions servlet : transfer
+04/04/2022 12:29:44:495  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Using SCESession 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions servlet : quit
+04/04/2022 12:29:44:567  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Using SCESession 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions servlet : end
+04/04/2022 12:30:52:541  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : HTTP Session lost removing SCESession 4E7E20D5E6F5DB9DF3321F4CC3BE6E60
+04/04/2022 12:30:52:542  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : SCESession Removed
+04/04/2022 12:30:52:542 DEBUG - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : Removing 1 session stack frames.
+04/04/2022 12:30:52:542  INFO - 4E7E20D5E6F5DB9DF3321F4CC3BE6E60:/noovi_cloud_solutions : ** Popped Stack Frame [/noovi_cloud_solutions]
+04/04/2022 16:49:22:873  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : SCESession bound to HttpSession 1EE28C27812667F0D4FE122945E8A314
+04/04/2022 16:49:22:898  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Browser Version 2.1.4, terminationURL enabled : true
+04/04/2022 16:49:22:943  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Using SCESession 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions servlet : Start
+04/04/2022 16:49:23:123  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : ** Pushed Stack Frame [/noovi_cloud_solutions]
+04/04/2022 16:49:23:138 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Not able to save posted variable information [call_classification]
+04/04/2022 16:49:23:138  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___sessionid to complex: session:sessionid  as [sess1793643]
+04/04/2022 16:49:23:138  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+04/04/2022 16:49:23:813  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : runtime_platform : Desktop
+04/04/2022 16:49:23:813  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : runtime_asr : SRGS-Literals
+04/04/2022 16:49:23:850 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Acquiring initial License
+04/04/2022 16:49:23:852  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Acquiring Desktop runtime license
+04/04/2022 16:49:23:852  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Runtime :true
+04/04/2022 16:49:23:852  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : IC :true
+04/04/2022 16:49:23:852  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : CTI :true
+04/04/2022 16:49:23:988 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Grace Period timer cleared
+04/04/2022 16:49:23:990 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : License refresh timer started
+04/04/2022 16:49:23:993  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : MessageType is speech
+04/04/2022 16:49:24:003 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/Start] ***
+04/04/2022 16:49:24:003 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<script> 
+7:function getnbest(  item, nbest ) { 
+8:    var len = application.lastresult$.length; 
+9:    var result = ""; 
+10:     
+11:    if ( len &gt; nbest) { 
+12:        len = nbest; 
+13:    } 
+14:    for (var i = 0; i &lt; len; i++) { 
+15:        if (i &gt; 0) { 
+16:            result += " |"; 
+17:        } 
+18:        var temp  =  "application.lastresult$[" + i + "]." + item; 
+19:        result += extractprops( "", eval(temp)); 
+20:    } 
+21:    return result; 
+22:} 
+23: 
+24:function getnbestnmni(  item, nbest ) { 
+25:    var len = application.lastresult$.length; 
+26:    var result = ""; 
+27:     
+28:    if ( len &gt; nbest) { 
+29:        len = nbest; 
+30:    } 
+31:    for (var i = 0; i &lt; len; i++) { 
+32:        if (i &gt; 0) { 
+33:            result += " |"; 
+34:        } 
+35:        result += item; 
+36:    } 
+37:    return result; 
+38:} 
+39: 
+40:function extractprops ( parent, obj ) { 
+41:    var prop, name, result = ""; 
+42:    var count = 1; 
+43:    if ( typeof ( obj ) == "object" ) { 
+44:        for ( prop in obj ) { 
+45:            name = parent + prop; 
+46:            if ( typeof ( obj [ prop ] ) == "object" ) { 
+47:                result += extractprops( name+".", obj [ prop ] ); 
+48:            } else { 
+49:                if (count == 1) { 
+50:                    result = obj [ prop ]; 
+51:                } else { 
+52:                    result += " " + obj [ prop ]; 
+53:                } 
+54:            } 
+55:            count = count + 1; 
+56:        } 
+57:    } else { 
+58:        if (obj == undefined ) { 
+59:            result +=  "undefined"; 
+60:        } else { 
+61:            result +=  obj; 
+62:        } 
+63:    } 
+64:    return result; 
+65:} 
+66: 
+67:function startswith ( value, startwith ) { 
+68:    var index; 
+69:    index = value.indexOf(startwith, 0); 
+70:    if ( index == 0 ) { 
+71:       return true; 
+72:    } else { 
+73:       return false; 
+74:    } 
+75:} 
+76: 
+77:function containsUndefined ( value ) { 
+78:    var index; 
+79:    index = value.indexOf('undefined', 0); 
+80:    if ( index == -1 ) { 
+81:       return false; 
+82:    } else { 
+83:       return true; 
+84:    } 
+85:} 
+86: 
+87:</script> 
+88:<script> 
+89:function objectToString(  obj ) { 
+90:    try { 
+91:    var result = ""; 
+92:    result += getobjectprops( "", obj); 
+93:    if (result.charAt(0) == '|' ) { 
+94:        result = result.substring(1); 
+95:    }  
+96:    } catch (errMsg) { 
+97:        return("undefined"); 
+98:    } 
+99:    return result; 
+100:} 
+101: 
+102:function getobjectprops ( parent, obj ) { 
+103:    var prop, name, result = ""; 
+104:    if ( typeof ( obj ) == "object" ) {  
+105:        for ( prop in obj ) {  
+106:            name = parent + prop; 
+107:            if ( typeof ( obj [ prop ] ) == "object" ) { 
+108:                result += extractprops( name+".", obj [ prop ] ); 
+109:            } else {  
+110:                result +=   "|"  + obj [ prop ];  
+111:            }  
+112:        }  
+113:    } else {  
+114:        if (obj == undefined ) {  
+115:           result +=  "undefined";  
+116:        } else {  
+117:           result +=  obj;  
+118:        }  
+119:    }  
+120:    return result; 
+121:} 
+122:</script> 
+123:<var name="_avayaExitReason" expr="''"/> 
+124:<var name="_avayaExitInfo1" expr="''"/> 
+125:<var name="_avayaExitInfo2" expr="''"/> 
+126:<var name="_avayaExitCustomerId" expr="''"/> 
+127:<var name="_avayaExitPreferredPath" expr="'1'"/> 
+128:<var name="_avayaExitTopic" expr="''"/> 
+129:<var name="_avayaExitParentId" expr="''"/> 
+130:<var name="_avayaNoinputCounter" expr="0"/> 
+131:<var name="_avayaNomatchCounter" expr="0"/> 
+132:<meta name="marker" content="Avaya Aura Orchestration Designer Root End"/> 
+133:<form id="Start"> 
+134:<script> 
+135:function getArray( arrayName, item ) { 
+136:    try { 
+137:        var len = eval( arrayName +'.length;'); 
+138:        var result = ""; 
+139:     
+140:        for (var i = 0; i &lt; len; i++) { 
+141:            if (i &gt; 0) { 
+142:                result += " |"; 
+143:            } 
+144:            var temp  =  arrayName + "[" + i + "]." + item; 
+145:            result += eval(temp); 
+146:        } 
+147:        return result; 
+148:    } catch (errMsg) { 
+149:            return('unknown'); 
+150:    } 
+151:} 
+152:function getRedirect( item ) { 
+153:    return(getArray('session.connection.redirect', item)); 
+154:} 
+155:function getShareduui( item ) { 
+156:    return(getArray('session.avaya.uui.shared', item)); 
+157:} 
+158:function getScriptItem( item ) { 
+159:    try { 
+160:        var result = ""; 
+161:        result += eval(item); 
+162:        return result; 
+163:    } catch (errMsg) { 
+164:        return('unknown'); 
+165:    } 
+166:} 
+167:function getSIPCallID() { 
+168:    try { 
+169:        var protocol = getScriptItem( 'session.connection.protocol.name' ); 
+170:        if ( protocol == 'sip'  || protocol == 'SIP' ) { 
+171:            var temp = getScriptItem( 'session.connection.protocol.sip.callid' ); 
+172:            return(temp); 
+173:        } else { 
+174:            return('unknown'); 
+175:        } 
+176:    } catch (errMsg) { 
+177:            return('unknown'); 
+178:    } 
+179:} 
+180:</script> 
+181:<var name="session___aai" expr="getScriptItem( 'session.connection.aai' )"/> 
+182:<var name="session___ani" expr="getScriptItem( 'session.connection.remote.uri' )"/> 
+183:<var name="session___dnis" expr="getScriptItem( 'session.connection.local.uri' )"/> 
+184:<var name="session___protocolname" expr="getScriptItem( 'session.connection.protocol.name' )"/> 
+185:<var name="session___protocolversion" expr="getScriptItem( 'session.connection.protocol.version' )"/> 
+186:<var name="session___uui" expr="'unknown'"/> 
+187:<var name="session___calltag" expr="'unknown'"/> 
+188:<var name="session___channel" expr="getScriptItem( 'session.avaya.telephone.channel' )"/> 
+189:<var name="session___vpcalledextension" expr="'unknown'"/> 
+190:<var name="session___vpcoveragereason" expr="'unknown'"/> 
+191:<var name="session___vpcoveragetype" expr="'unknown'"/> 
+192:<var name="session___vprdnis" expr="'unknown'"/> 
+193:<var name="redirectinfo___uri" expr="getRedirect('uri')"/> 
+194:<var name="redirectinfo___presentationinfo" expr="getRedirect('pi')"/> 
+195:<var name="redirectinfo___screeninginfo" expr="getRedirect('si')"/> 
+196:<var name="redirectinfo___reason" expr="getRedirect('reason')"/> 
+197:<var name="session___sharedmode" expr="getScriptItem( 'session.avaya.uui.mode' )"/> 
+198:<var name="shareduui___id" expr="getShareduui('id')"/> 
+199:<var name="shareduui___value" expr="getShareduui('value')"/> 
+200:<var name="session___sessionlabel" expr="getScriptItem( 'session.avaya.ucid' )"/> 
+201:<var name="_sipcallid" expr="getSIPCallID()"/> 
+202:<var name="session___mediatype" expr="getScriptItem( 'session.connection.protocol.sip.media[1].type' )"/> 
+203:<var name="session___videoenabled" expr="getScriptItem( 'session.connection.video.enabled' )"/> 
+204:<var name="session___videocodec" expr="getScriptItem( 'session.connection.video.codec' )"/> 
+205:<var name="session___videoformat" expr="getScriptItem( 'session.connection.video.format' )"/> 
+206:<var name="session___videowidth" expr="getScriptItem( 'session.connection.video.width' )"/> 
+207:<var name="session___videoheight" expr="getScriptItem( 'session.connection.video.height' )"/> 
+208:<var name="session___videofps" expr="getScriptItem( 'session.connection.video.fps' )"/> 
+209:<var name="session___videobitrate" expr="getScriptItem( 'session.connection.video.bitrate' )"/> 
+210:<var name="session___videonearfmtp" expr="getScriptItem( 'session.connection.video.nearfmtp' )"/> 
+211:<var name="session___videofarfmtp" expr="getScriptItem( 'session.connection.video.farfmtp' )"/> 
+212:<var name="session___ucid" expr="getScriptItem( 'session.avaya.ucid' )"/> 
+213:<var name="session___conversefirst" expr="'unknown'"/> 
+214:<var name="session___conversesecond" expr="'unknown'"/> 
+215:<block> 
+216:<submit next="check_hora?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions" namelist="session___aai session___ani session___dnis session___protocolname session___protocolversion session___uui session___calltag session___channel session___vpcalledextension session___vpcoveragereason session___vpcoveragetype session___vprdnis redirectinfo___uri redirectinfo___presentationinfo redirectinfo___screeninginfo redirectinfo___reason session___sharedmode shareduui___id shareduui___value session___sessionlabel _sipcallid session___mediatype session___videoenabled session___videocodec session___videoformat session___videowidth session___videoheight session___videofps session___videobitrate session___videonearfmtp session___videofarfmtp session___ucid session___conversefirst session___conversesecond" method="post"/> 
+217:</block> 
+218:</form> 
+219:</vxml> 
+220:
+
+04/04/2022 16:49:24:029  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Using SCESession 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions servlet : check_hora
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___aai to complex: session:aai  as []
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___ani to complex: session:ani  as [undefined]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___calltag to complex: session:calltag  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___channel to complex: session:channel  as [0]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___dnis to complex: session:dnis  as [undefined]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___protocolname to complex: session:protocolname  as [pots]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___ucid to complex: session:ucid  as [undefined]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___uui to complex: session:uui  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___videofps to complex: session:videofps  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+04/04/2022 16:49:24:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+04/04/2022 16:49:24:093  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : [condition1] Expression [time:hour] Numeric Greater Than [6]
+04/04/2022 16:49:24:093  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : [expression1] Expression [time:hour] Numeric Less Than [12]
+04/04/2022 16:49:24:213  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Using SCESession 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions servlet : speak_dia
+04/04/2022 16:49:24:401 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/speak_dia] ***
+04/04/2022 16:49:24:401 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<form id="speak_dia"> 
+7:<block> 
+8:<prompt bargein="true" bargeintype="speech" timeout="8000ms"> 
+9:<audio src="http://localhost:8080/noovi_cloud_solutions/data/portuguese/phrases/msg001.wav"/> 
+10:</prompt> 
+11:</block> 
+12:<catch event="connection.disconnect"> 
+13:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+14:</catch> 
+15:<block> 
+16:<submit next="menu_opcoes?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+17:</block> 
+18:</form> 
+19:</vxml> 
+20:
+
+04/04/2022 16:49:24:454  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Using SCESession 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions servlet : menu_opcoes
+04/04/2022 16:49:24:517 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/menu_opcoes] ***
+04/04/2022 16:49:24:517 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<property name="maxnbest" value="1"/> 
+7:<var name="nbest" expr="1"/> 
+8:<var name="menu_opcoes___value"/> 
+9:<var name="menu_opcoes___confidence"/> 
+10:<var name="menu_opcoes___utterance"/> 
+11:<var name="menu_opcoes___inputmode"/> 
+12:<var name="menu_opcoes___interpretation" expr="'undefined'"/> 
+13:<var name="menu_opcoes___noinputcount" expr="'0'"/> 
+14:<var name="menu_opcoes___nomatchcount" expr="'0'"/> 
+15:<var name="ddmenuchoice"/> 
+16:<menu id="menu_opcoes"> 
+17:<prompt bargein="true" bargeintype="speech" timeout="8000ms"> 
+18:<audio src="http://localhost:8080/noovi_cloud_solutions/data/portuguese/phrases/msg004.wav"/> 
+19:</prompt> 
+20:<choice  dtmf="1" accept="exact" next="#choice0"> 
+21:</choice> 
+22:<choice  dtmf="2" accept="exact" next="#choice1"> 
+23:</choice> 
+24:<choice  dtmf="3" accept="exact" next="#choice2"> 
+25:</choice> 
+26:<choice  dtmf="9" accept="exact" next="#choice3"> 
+27:</choice> 
+28:<catch event="noinput"> 
+29:<assign name="_avayaNoinputCounter" expr="_avayaNoinputCounter + 1"/> 
+30:<if cond="typeof(menu_opcoes___noinputcount) == 'undefined' || typeof(menu_opcoes___nomatchcount) == 'undefined'"> 
+31:    <submit next="check_tentativas_1?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+32:<else/> 
+33:    <assign name="menu_opcoes___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+34:    <assign name="menu_opcoes___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+35:    <submit next="check_tentativas_1?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions" namelist="menu_opcoes___noinputcount menu_opcoes___nomatchcount" method="post" enctype="multipart/form-data"/> 
+36:</if> 
+37:</catch> 
+38:<catch event="nomatch"> 
+39:<assign name="_avayaNomatchCounter" expr="_avayaNomatchCounter + 1"/> 
+40:<if cond="typeof(menu_opcoes___noinputcount) == 'undefined' || typeof(menu_opcoes___nomatchcount) == 'undefined'"> 
+41:    <submit next="check_tentativas_1?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+42:<else/> 
+43:    <assign name="menu_opcoes___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+44:    <assign name="menu_opcoes___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+45:    <submit next="check_tentativas_1?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions" namelist="menu_opcoes___noinputcount menu_opcoes___nomatchcount" method="post" enctype="multipart/form-data"/> 
+46:</if> 
+47:</catch> 
+48:<catch event="connection.disconnect"> 
+49:<if cond="typeof(menu_opcoes___noinputcount) == 'undefined' || typeof(menu_opcoes___nomatchcount) == 'undefined'"> 
+50:    <submit next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+51:<else/> 
+52:    <assign name="menu_opcoes___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+53:    <assign name="menu_opcoes___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+54:    <submit next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions" namelist="menu_opcoes___noinputcount menu_opcoes___nomatchcount" method="post" enctype="multipart/form-data"/> 
+55:</if> 
+56:</catch> 
+57:</menu> 
+58:<form id="choice0"> 
+59:<block> 
+60:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions'"/> 
+61:<goto next="#ddfinish"/> 
+62:</block> 
+63:<catch event="connection.disconnect"> 
+64:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+65:</catch> 
+66:</form> 
+67:<form id="choice1"> 
+68:<block> 
+69:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions'"/> 
+70:<goto next="#ddfinish"/> 
+71:</block> 
+72:<catch event="connection.disconnect"> 
+73:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+74:</catch> 
+75:</form> 
+76:<form id="choice2"> 
+77:<block> 
+78:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions'"/> 
+79:<goto next="#ddfinish"/> 
+80:</block> 
+81:<catch event="connection.disconnect"> 
+82:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+83:</catch> 
+84:</form> 
+85:<form id="choice3"> 
+86:<block> 
+87:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions'"/> 
+88:<goto next="#ddfinish"/> 
+89:</block> 
+90:<catch event="connection.disconnect"> 
+91:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+92:</catch> 
+93:</form> 
+94:<form id="ddfinish"> 
+95:<block> 
+96:<assign name="menu_opcoes___confidence" expr="getnbest('confidence', nbest)"/> 
+97:<assign name="menu_opcoes___utterance" expr="getnbest('utterance', nbest)"/> 
+98:<assign name="menu_opcoes___inputmode" expr="getnbest('inputmode', nbest)"/> 
+99:<assign name="menu_opcoes___interpretation" expr="getnbest('interpretation', nbest)"/> 
+100:<if cond="startswith(menu_opcoes___interpretation, 'undefined') == true "> 
+101:    <assign name="menu_opcoes___interpretation" expr="getnbest('interpretation', nbest)"/> 
+102:</if> 
+103:<assign name="menu_opcoes___value" expr="menu_opcoes___interpretation"/> 
+104:<assign name="menu_opcoes___noinputcount" expr="getnbestnmni(_avayaNoinputCounter, nbest)"/> 
+105:<assign name="menu_opcoes___nomatchcount" expr="getnbestnmni(_avayaNomatchCounter, nbest)"/> 
+106:<submit expr="ddmenuchoice" namelist="menu_opcoes___value menu_opcoes___confidence menu_opcoes___utterance menu_opcoes___inputmode menu_opcoes___interpretation menu_opcoes___noinputcount menu_opcoes___nomatchcount "  method="post"/> 
+107:</block> 
+108:<catch event="connection.disconnect"> 
+109:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+110:</catch> 
+111:</form> 
+112:</vxml> 
+113:
+
+04/04/2022 16:49:35:718  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Using SCESession 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions servlet : check_tentativas_1
+04/04/2022 16:49:35:728  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :menu_opcoes___nomatchcount to complex: menu_opcoes:nomatchcount  as [1]
+04/04/2022 16:49:35:728  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :menu_opcoes___noinputcount to complex: menu_opcoes:noinputcount  as [0]
+04/04/2022 16:49:35:783  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Incrementing [tentativas1]
+04/04/2022 16:49:35:923  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : [condition1] Expression [tentativas1] Numeric Greater Than [2]
+04/04/2022 16:49:35:928  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Using SCESession 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions servlet : speak_opcao_invalida
+04/04/2022 16:49:35:993 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/speak_opcao_invalida] ***
+04/04/2022 16:49:35:993 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<form id="speak_opcao_invalida"> 
+7:<block> 
+8:<prompt bargein="true" bargeintype="speech" timeout="8000ms"> 
+9:<audio src="http://localhost:8080/noovi_cloud_solutions/data/portuguese/phrases/msg006.wav"/> 
+10:</prompt> 
+11:</block> 
+12:<catch event="connection.disconnect"> 
+13:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+14:</catch> 
+15:<block> 
+16:<submit next="menu_opcoes?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+17:</block> 
+18:</form> 
+19:</vxml> 
+20:
+
+04/04/2022 16:49:36:008  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Using SCESession 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions servlet : menu_opcoes
+04/04/2022 16:49:36:068 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/menu_opcoes] ***
+04/04/2022 16:49:36:068 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<property name="maxnbest" value="1"/> 
+7:<var name="nbest" expr="1"/> 
+8:<var name="menu_opcoes___value"/> 
+9:<var name="menu_opcoes___confidence"/> 
+10:<var name="menu_opcoes___utterance"/> 
+11:<var name="menu_opcoes___inputmode"/> 
+12:<var name="menu_opcoes___interpretation" expr="'undefined'"/> 
+13:<var name="menu_opcoes___noinputcount" expr="'0'"/> 
+14:<var name="menu_opcoes___nomatchcount" expr="'0'"/> 
+15:<var name="ddmenuchoice"/> 
+16:<menu id="menu_opcoes"> 
+17:<prompt bargein="true" bargeintype="speech" timeout="8000ms"> 
+18:<audio src="http://localhost:8080/noovi_cloud_solutions/data/portuguese/phrases/msg004.wav"/> 
+19:</prompt> 
+20:<choice  dtmf="1" accept="exact" next="#choice0"> 
+21:</choice> 
+22:<choice  dtmf="2" accept="exact" next="#choice1"> 
+23:</choice> 
+24:<choice  dtmf="3" accept="exact" next="#choice2"> 
+25:</choice> 
+26:<choice  dtmf="9" accept="exact" next="#choice3"> 
+27:</choice> 
+28:<catch event="noinput"> 
+29:<assign name="_avayaNoinputCounter" expr="_avayaNoinputCounter + 1"/> 
+30:<if cond="typeof(menu_opcoes___noinputcount) == 'undefined' || typeof(menu_opcoes___nomatchcount) == 'undefined'"> 
+31:    <submit next="check_tentativas_1?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+32:<else/> 
+33:    <assign name="menu_opcoes___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+34:    <assign name="menu_opcoes___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+35:    <submit next="check_tentativas_1?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions" namelist="menu_opcoes___noinputcount menu_opcoes___nomatchcount" method="post" enctype="multipart/form-data"/> 
+36:</if> 
+37:</catch> 
+38:<catch event="nomatch"> 
+39:<assign name="_avayaNomatchCounter" expr="_avayaNomatchCounter + 1"/> 
+40:<if cond="typeof(menu_opcoes___noinputcount) == 'undefined' || typeof(menu_opcoes___nomatchcount) == 'undefined'"> 
+41:    <submit next="check_tentativas_1?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+42:<else/> 
+43:    <assign name="menu_opcoes___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+44:    <assign name="menu_opcoes___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+45:    <submit next="check_tentativas_1?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions" namelist="menu_opcoes___noinputcount menu_opcoes___nomatchcount" method="post" enctype="multipart/form-data"/> 
+46:</if> 
+47:</catch> 
+48:<catch event="connection.disconnect"> 
+49:<if cond="typeof(menu_opcoes___noinputcount) == 'undefined' || typeof(menu_opcoes___nomatchcount) == 'undefined'"> 
+50:    <submit next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+51:<else/> 
+52:    <assign name="menu_opcoes___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+53:    <assign name="menu_opcoes___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+54:    <submit next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions" namelist="menu_opcoes___noinputcount menu_opcoes___nomatchcount" method="post" enctype="multipart/form-data"/> 
+55:</if> 
+56:</catch> 
+57:</menu> 
+58:<form id="choice0"> 
+59:<block> 
+60:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions'"/> 
+61:<goto next="#ddfinish"/> 
+62:</block> 
+63:<catch event="connection.disconnect"> 
+64:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+65:</catch> 
+66:</form> 
+67:<form id="choice1"> 
+68:<block> 
+69:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions'"/> 
+70:<goto next="#ddfinish"/> 
+71:</block> 
+72:<catch event="connection.disconnect"> 
+73:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+74:</catch> 
+75:</form> 
+76:<form id="choice2"> 
+77:<block> 
+78:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions'"/> 
+79:<goto next="#ddfinish"/> 
+80:</block> 
+81:<catch event="connection.disconnect"> 
+82:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+83:</catch> 
+84:</form> 
+85:<form id="choice3"> 
+86:<block> 
+87:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions'"/> 
+88:<goto next="#ddfinish"/> 
+89:</block> 
+90:<catch event="connection.disconnect"> 
+91:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+92:</catch> 
+93:</form> 
+94:<form id="ddfinish"> 
+95:<block> 
+96:<assign name="menu_opcoes___confidence" expr="getnbest('confidence', nbest)"/> 
+97:<assign name="menu_opcoes___utterance" expr="getnbest('utterance', nbest)"/> 
+98:<assign name="menu_opcoes___inputmode" expr="getnbest('inputmode', nbest)"/> 
+99:<assign name="menu_opcoes___interpretation" expr="getnbest('interpretation', nbest)"/> 
+100:<if cond="startswith(menu_opcoes___interpretation, 'undefined') == true "> 
+101:    <assign name="menu_opcoes___interpretation" expr="getnbest('interpretation', nbest)"/> 
+102:</if> 
+103:<assign name="menu_opcoes___value" expr="menu_opcoes___interpretation"/> 
+104:<assign name="menu_opcoes___noinputcount" expr="getnbestnmni(_avayaNoinputCounter, nbest)"/> 
+105:<assign name="menu_opcoes___nomatchcount" expr="getnbestnmni(_avayaNomatchCounter, nbest)"/> 
+106:<submit expr="ddmenuchoice" namelist="menu_opcoes___value menu_opcoes___confidence menu_opcoes___utterance menu_opcoes___inputmode menu_opcoes___interpretation menu_opcoes___noinputcount menu_opcoes___nomatchcount "  method="post"/> 
+107:</block> 
+108:<catch event="connection.disconnect"> 
+109:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+110:</catch> 
+111:</form> 
+112:</vxml> 
+113:
+
+04/04/2022 16:49:40:989  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Using SCESession 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions servlet : check_tentativas_1
+04/04/2022 16:49:40:999  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :menu_opcoes___nomatchcount to complex: menu_opcoes:nomatchcount  as [1]
+04/04/2022 16:49:40:999  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :menu_opcoes___noinputcount to complex: menu_opcoes:noinputcount  as [0]
+04/04/2022 16:49:41:058  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Incrementing [tentativas1]
+04/04/2022 16:49:41:058  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : [condition1] Expression [tentativas1] Numeric Greater Than [2]
+04/04/2022 16:49:41:058  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Using SCESession 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions servlet : speak_opcao_invalida
+04/04/2022 16:49:41:110 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/speak_opcao_invalida] ***
+04/04/2022 16:49:41:110 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<form id="speak_opcao_invalida"> 
+7:<block> 
+8:<prompt bargein="true" bargeintype="speech" timeout="8000ms"> 
+9:<audio src="http://localhost:8080/noovi_cloud_solutions/data/portuguese/phrases/msg006.wav"/> 
+10:</prompt> 
+11:</block> 
+12:<catch event="connection.disconnect"> 
+13:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+14:</catch> 
+15:<block> 
+16:<submit next="menu_opcoes?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+17:</block> 
+18:</form> 
+19:</vxml> 
+20:
+
+04/04/2022 16:49:41:121  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Using SCESession 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions servlet : menu_opcoes
+04/04/2022 16:49:41:198 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/menu_opcoes] ***
+04/04/2022 16:49:41:198 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<property name="maxnbest" value="1"/> 
+7:<var name="nbest" expr="1"/> 
+8:<var name="menu_opcoes___value"/> 
+9:<var name="menu_opcoes___confidence"/> 
+10:<var name="menu_opcoes___utterance"/> 
+11:<var name="menu_opcoes___inputmode"/> 
+12:<var name="menu_opcoes___interpretation" expr="'undefined'"/> 
+13:<var name="menu_opcoes___noinputcount" expr="'0'"/> 
+14:<var name="menu_opcoes___nomatchcount" expr="'0'"/> 
+15:<var name="ddmenuchoice"/> 
+16:<menu id="menu_opcoes"> 
+17:<prompt bargein="true" bargeintype="speech" timeout="8000ms"> 
+18:<audio src="http://localhost:8080/noovi_cloud_solutions/data/portuguese/phrases/msg004.wav"/> 
+19:</prompt> 
+20:<choice  dtmf="1" accept="exact" next="#choice0"> 
+21:</choice> 
+22:<choice  dtmf="2" accept="exact" next="#choice1"> 
+23:</choice> 
+24:<choice  dtmf="3" accept="exact" next="#choice2"> 
+25:</choice> 
+26:<choice  dtmf="9" accept="exact" next="#choice3"> 
+27:</choice> 
+28:<catch event="noinput"> 
+29:<assign name="_avayaNoinputCounter" expr="_avayaNoinputCounter + 1"/> 
+30:<if cond="typeof(menu_opcoes___noinputcount) == 'undefined' || typeof(menu_opcoes___nomatchcount) == 'undefined'"> 
+31:    <submit next="check_tentativas_1?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+32:<else/> 
+33:    <assign name="menu_opcoes___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+34:    <assign name="menu_opcoes___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+35:    <submit next="check_tentativas_1?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions" namelist="menu_opcoes___noinputcount menu_opcoes___nomatchcount" method="post" enctype="multipart/form-data"/> 
+36:</if> 
+37:</catch> 
+38:<catch event="nomatch"> 
+39:<assign name="_avayaNomatchCounter" expr="_avayaNomatchCounter + 1"/> 
+40:<if cond="typeof(menu_opcoes___noinputcount) == 'undefined' || typeof(menu_opcoes___nomatchcount) == 'undefined'"> 
+41:    <submit next="check_tentativas_1?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+42:<else/> 
+43:    <assign name="menu_opcoes___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+44:    <assign name="menu_opcoes___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+45:    <submit next="check_tentativas_1?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions" namelist="menu_opcoes___noinputcount menu_opcoes___nomatchcount" method="post" enctype="multipart/form-data"/> 
+46:</if> 
+47:</catch> 
+48:<catch event="connection.disconnect"> 
+49:<if cond="typeof(menu_opcoes___noinputcount) == 'undefined' || typeof(menu_opcoes___nomatchcount) == 'undefined'"> 
+50:    <submit next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+51:<else/> 
+52:    <assign name="menu_opcoes___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+53:    <assign name="menu_opcoes___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+54:    <submit next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions" namelist="menu_opcoes___noinputcount menu_opcoes___nomatchcount" method="post" enctype="multipart/form-data"/> 
+55:</if> 
+56:</catch> 
+57:</menu> 
+58:<form id="choice0"> 
+59:<block> 
+60:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions'"/> 
+61:<goto next="#ddfinish"/> 
+62:</block> 
+63:<catch event="connection.disconnect"> 
+64:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+65:</catch> 
+66:</form> 
+67:<form id="choice1"> 
+68:<block> 
+69:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions'"/> 
+70:<goto next="#ddfinish"/> 
+71:</block> 
+72:<catch event="connection.disconnect"> 
+73:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+74:</catch> 
+75:</form> 
+76:<form id="choice2"> 
+77:<block> 
+78:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions'"/> 
+79:<goto next="#ddfinish"/> 
+80:</block> 
+81:<catch event="connection.disconnect"> 
+82:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+83:</catch> 
+84:</form> 
+85:<form id="choice3"> 
+86:<block> 
+87:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions'"/> 
+88:<goto next="#ddfinish"/> 
+89:</block> 
+90:<catch event="connection.disconnect"> 
+91:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+92:</catch> 
+93:</form> 
+94:<form id="ddfinish"> 
+95:<block> 
+96:<assign name="menu_opcoes___confidence" expr="getnbest('confidence', nbest)"/> 
+97:<assign name="menu_opcoes___utterance" expr="getnbest('utterance', nbest)"/> 
+98:<assign name="menu_opcoes___inputmode" expr="getnbest('inputmode', nbest)"/> 
+99:<assign name="menu_opcoes___interpretation" expr="getnbest('interpretation', nbest)"/> 
+100:<if cond="startswith(menu_opcoes___interpretation, 'undefined') == true "> 
+101:    <assign name="menu_opcoes___interpretation" expr="getnbest('interpretation', nbest)"/> 
+102:</if> 
+103:<assign name="menu_opcoes___value" expr="menu_opcoes___interpretation"/> 
+104:<assign name="menu_opcoes___noinputcount" expr="getnbestnmni(_avayaNoinputCounter, nbest)"/> 
+105:<assign name="menu_opcoes___nomatchcount" expr="getnbestnmni(_avayaNomatchCounter, nbest)"/> 
+106:<submit expr="ddmenuchoice" namelist="menu_opcoes___value menu_opcoes___confidence menu_opcoes___utterance menu_opcoes___inputmode menu_opcoes___interpretation menu_opcoes___noinputcount menu_opcoes___nomatchcount "  method="post"/> 
+107:</block> 
+108:<catch event="connection.disconnect"> 
+109:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+110:</catch> 
+111:</form> 
+112:</vxml> 
+113:
+
+04/04/2022 16:49:44:033  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Using SCESession 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions servlet : check_tentativas_1
+04/04/2022 16:49:44:036  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :menu_opcoes___nomatchcount to complex: menu_opcoes:nomatchcount  as [1]
+04/04/2022 16:49:44:036  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Storing :menu_opcoes___noinputcount to complex: menu_opcoes:noinputcount  as [0]
+04/04/2022 16:49:44:091  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Incrementing [tentativas1]
+04/04/2022 16:49:44:091  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : [condition1] Expression [tentativas1] Numeric Greater Than [2]
+04/04/2022 16:49:44:091  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Using SCESession 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions servlet : speak_excedeu_tentativas
+04/04/2022 16:49:44:147 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/speak_excedeu_tentativas] ***
+04/04/2022 16:49:44:147 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<form id="speak_excedeu_tentativas"> 
+7:<block> 
+8:<prompt bargein="true" bargeintype="speech" timeout="8000ms"> 
+9:<audio src="http://localhost:8080/noovi_cloud_solutions/data/portuguese/phrases/msg005.wav"/> 
+10:</prompt> 
+11:</block> 
+12:<catch event="connection.disconnect"> 
+13:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+14:</catch> 
+15:<block> 
+16:<submit next="quit?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions"/> 
+17:</block> 
+18:</form> 
+19:</vxml> 
+20:
+
+04/04/2022 16:49:44:168  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Using SCESession 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions servlet : quit
+04/04/2022 16:49:44:238 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/quit] ***
+04/04/2022 16:49:44:238 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<form id="quit"> 
+7:<block> 
+8:<disconnect/> 
+9:</block> 
+10:<catch event="connection.disconnect"> 
+11:<var name="avayadonotsave___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+12:<var name="avayadonotsave___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+13:<submit next="end?___DDSESSIONID=1EE28C27812667F0D4FE122945E8A314%3A%2Fnoovi_cloud_solutions" namelist="avayadonotsave___noinputcount avayadonotsave___nomatchcount" method="get"/> 
+14:</catch> 
+15:</form> 
+16:</vxml> 
+17:
+
+04/04/2022 16:49:49:938  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Using SCESession 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions servlet : end
+04/04/2022 16:49:50:008 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/end] ***
+04/04/2022 16:49:50:008 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<var name="_avayaExitReason" expr="''"/> 
+7:<var name="_avayaExitInfo1" expr="''"/> 
+8:<var name="_avayaExitInfo2" expr="''"/> 
+9:<var name="_avayaExitCustomerId" expr="''"/> 
+10:<var name="_avayaExitPreferredPath" expr="'1'"/> 
+11:<var name="_avayaExitTopic" expr="''"/> 
+12:<var name="_avayaExitParentId" expr="''"/> 
+13:<form id="end"> 
+14:<block> 
+15:<exit namelist="_avayaExitReason _avayaExitInfo1 _avayaExitInfo2 _avayaExitCustomerId _avayaExitPreferredPath _avayaExitTopic _avayaExitParentId"/> 
+16:</block> 
+17:<catch event="connection.disconnect"> 
+18:    <exit namelist="_avayaExitReason _avayaExitInfo1 _avayaExitInfo2 _avayaExitCustomerId _avayaExitPreferredPath _avayaExitTopic _avayaExitParentId"/> 
+19:</catch> 
+20:<block> 
+21:</block> 
+22:</form> 
+23:</vxml> 
+24:
+
+04/04/2022 16:49:50:018  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Removing session from AvayaSessionTermination Servlet
+04/04/2022 16:49:50:018  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+04/04/2022 16:49:50:018  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : HTTP Session lost removing SCESession 1EE28C27812667F0D4FE122945E8A314
+04/04/2022 16:49:50:018  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : SCESession Removed
+04/04/2022 16:49:50:018 DEBUG - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : Removing 1 session stack frames.
+04/04/2022 16:49:50:018  INFO - 1EE28C27812667F0D4FE122945E8A314:/noovi_cloud_solutions : ** Popped Stack Frame [/noovi_cloud_solutions]
+04/04/2022 16:49:55:753  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : SCESession bound to HttpSession CD8A5B85BCC9F8F2EE5B2A3978AB06FE
+04/04/2022 16:49:55:753  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Browser Version 2.1.4, terminationURL enabled : true
+04/04/2022 16:49:55:758  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Using SCESession CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions servlet : Start
+04/04/2022 16:49:55:763  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : ** Pushed Stack Frame [/noovi_cloud_solutions]
+04/04/2022 16:49:55:763 DEBUG - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Not able to save posted variable information [call_classification]
+04/04/2022 16:49:55:763  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___sessionid to complex: session:sessionid  as [sess9806993]
+04/04/2022 16:49:55:763  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+04/04/2022 16:49:56:377  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : runtime_platform : Desktop
+04/04/2022 16:49:56:377  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : runtime_asr : SRGS-Literals
+04/04/2022 16:49:56:377  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : MessageType is speech
+04/04/2022 16:49:56:377 DEBUG - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/Start] ***
+04/04/2022 16:49:56:377 DEBUG - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<script> 
+7:function getnbest(  item, nbest ) { 
+8:    var len = application.lastresult$.length; 
+9:    var result = ""; 
+10:     
+11:    if ( len &gt; nbest) { 
+12:        len = nbest; 
+13:    } 
+14:    for (var i = 0; i &lt; len; i++) { 
+15:        if (i &gt; 0) { 
+16:            result += " |"; 
+17:        } 
+18:        var temp  =  "application.lastresult$[" + i + "]." + item; 
+19:        result += extractprops( "", eval(temp)); 
+20:    } 
+21:    return result; 
+22:} 
+23: 
+24:function getnbestnmni(  item, nbest ) { 
+25:    var len = application.lastresult$.length; 
+26:    var result = ""; 
+27:     
+28:    if ( len &gt; nbest) { 
+29:        len = nbest; 
+30:    } 
+31:    for (var i = 0; i &lt; len; i++) { 
+32:        if (i &gt; 0) { 
+33:            result += " |"; 
+34:        } 
+35:        result += item; 
+36:    } 
+37:    return result; 
+38:} 
+39: 
+40:function extractprops ( parent, obj ) { 
+41:    var prop, name, result = ""; 
+42:    var count = 1; 
+43:    if ( typeof ( obj ) == "object" ) { 
+44:        for ( prop in obj ) { 
+45:            name = parent + prop; 
+46:            if ( typeof ( obj [ prop ] ) == "object" ) { 
+47:                result += extractprops( name+".", obj [ prop ] ); 
+48:            } else { 
+49:                if (count == 1) { 
+50:                    result = obj [ prop ]; 
+51:                } else { 
+52:                    result += " " + obj [ prop ]; 
+53:                } 
+54:            } 
+55:            count = count + 1; 
+56:        } 
+57:    } else { 
+58:        if (obj == undefined ) { 
+59:            result +=  "undefined"; 
+60:        } else { 
+61:            result +=  obj; 
+62:        } 
+63:    } 
+64:    return result; 
+65:} 
+66: 
+67:function startswith ( value, startwith ) { 
+68:    var index; 
+69:    index = value.indexOf(startwith, 0); 
+70:    if ( index == 0 ) { 
+71:       return true; 
+72:    } else { 
+73:       return false; 
+74:    } 
+75:} 
+76: 
+77:function containsUndefined ( value ) { 
+78:    var index; 
+79:    index = value.indexOf('undefined', 0); 
+80:    if ( index == -1 ) { 
+81:       return false; 
+82:    } else { 
+83:       return true; 
+84:    } 
+85:} 
+86: 
+87:</script> 
+88:<script> 
+89:function objectToString(  obj ) { 
+90:    try { 
+91:    var result = ""; 
+92:    result += getobjectprops( "", obj); 
+93:    if (result.charAt(0) == '|' ) { 
+94:        result = result.substring(1); 
+95:    }  
+96:    } catch (errMsg) { 
+97:        return("undefined"); 
+98:    } 
+99:    return result; 
+100:} 
+101: 
+102:function getobjectprops ( parent, obj ) { 
+103:    var prop, name, result = ""; 
+104:    if ( typeof ( obj ) == "object" ) {  
+105:        for ( prop in obj ) {  
+106:            name = parent + prop; 
+107:            if ( typeof ( obj [ prop ] ) == "object" ) { 
+108:                result += extractprops( name+".", obj [ prop ] ); 
+109:            } else {  
+110:                result +=   "|"  + obj [ prop ];  
+111:            }  
+112:        }  
+113:    } else {  
+114:        if (obj == undefined ) {  
+115:           result +=  "undefined";  
+116:        } else {  
+117:           result +=  obj;  
+118:        }  
+119:    }  
+120:    return result; 
+121:} 
+122:</script> 
+123:<var name="_avayaExitReason" expr="''"/> 
+124:<var name="_avayaExitInfo1" expr="''"/> 
+125:<var name="_avayaExitInfo2" expr="''"/> 
+126:<var name="_avayaExitCustomerId" expr="''"/> 
+127:<var name="_avayaExitPreferredPath" expr="'1'"/> 
+128:<var name="_avayaExitTopic" expr="''"/> 
+129:<var name="_avayaExitParentId" expr="''"/> 
+130:<var name="_avayaNoinputCounter" expr="0"/> 
+131:<var name="_avayaNomatchCounter" expr="0"/> 
+132:<meta name="marker" content="Avaya Aura Orchestration Designer Root End"/> 
+133:<form id="Start"> 
+134:<script> 
+135:function getArray( arrayName, item ) { 
+136:    try { 
+137:        var len = eval( arrayName +'.length;'); 
+138:        var result = ""; 
+139:     
+140:        for (var i = 0; i &lt; len; i++) { 
+141:            if (i &gt; 0) { 
+142:                result += " |"; 
+143:            } 
+144:            var temp  =  arrayName + "[" + i + "]." + item; 
+145:            result += eval(temp); 
+146:        } 
+147:        return result; 
+148:    } catch (errMsg) { 
+149:            return('unknown'); 
+150:    } 
+151:} 
+152:function getRedirect( item ) { 
+153:    return(getArray('session.connection.redirect', item)); 
+154:} 
+155:function getShareduui( item ) { 
+156:    return(getArray('session.avaya.uui.shared', item)); 
+157:} 
+158:function getScriptItem( item ) { 
+159:    try { 
+160:        var result = ""; 
+161:        result += eval(item); 
+162:        return result; 
+163:    } catch (errMsg) { 
+164:        return('unknown'); 
+165:    } 
+166:} 
+167:function getSIPCallID() { 
+168:    try { 
+169:        var protocol = getScriptItem( 'session.connection.protocol.name' ); 
+170:        if ( protocol == 'sip'  || protocol == 'SIP' ) { 
+171:            var temp = getScriptItem( 'session.connection.protocol.sip.callid' ); 
+172:            return(temp); 
+173:        } else { 
+174:            return('unknown'); 
+175:        } 
+176:    } catch (errMsg) { 
+177:            return('unknown'); 
+178:    } 
+179:} 
+180:</script> 
+181:<var name="session___aai" expr="getScriptItem( 'session.connection.aai' )"/> 
+182:<var name="session___ani" expr="getScriptItem( 'session.connection.remote.uri' )"/> 
+183:<var name="session___dnis" expr="getScriptItem( 'session.connection.local.uri' )"/> 
+184:<var name="session___protocolname" expr="getScriptItem( 'session.connection.protocol.name' )"/> 
+185:<var name="session___protocolversion" expr="getScriptItem( 'session.connection.protocol.version' )"/> 
+186:<var name="session___uui" expr="'unknown'"/> 
+187:<var name="session___calltag" expr="'unknown'"/> 
+188:<var name="session___channel" expr="getScriptItem( 'session.avaya.telephone.channel' )"/> 
+189:<var name="session___vpcalledextension" expr="'unknown'"/> 
+190:<var name="session___vpcoveragereason" expr="'unknown'"/> 
+191:<var name="session___vpcoveragetype" expr="'unknown'"/> 
+192:<var name="session___vprdnis" expr="'unknown'"/> 
+193:<var name="redirectinfo___uri" expr="getRedirect('uri')"/> 
+194:<var name="redirectinfo___presentationinfo" expr="getRedirect('pi')"/> 
+195:<var name="redirectinfo___screeninginfo" expr="getRedirect('si')"/> 
+196:<var name="redirectinfo___reason" expr="getRedirect('reason')"/> 
+197:<var name="session___sharedmode" expr="getScriptItem( 'session.avaya.uui.mode' )"/> 
+198:<var name="shareduui___id" expr="getShareduui('id')"/> 
+199:<var name="shareduui___value" expr="getShareduui('value')"/> 
+200:<var name="session___sessionlabel" expr="getScriptItem( 'session.avaya.ucid' )"/> 
+201:<var name="_sipcallid" expr="getSIPCallID()"/> 
+202:<var name="session___mediatype" expr="getScriptItem( 'session.connection.protocol.sip.media[1].type' )"/> 
+203:<var name="session___videoenabled" expr="getScriptItem( 'session.connection.video.enabled' )"/> 
+204:<var name="session___videocodec" expr="getScriptItem( 'session.connection.video.codec' )"/> 
+205:<var name="session___videoformat" expr="getScriptItem( 'session.connection.video.format' )"/> 
+206:<var name="session___videowidth" expr="getScriptItem( 'session.connection.video.width' )"/> 
+207:<var name="session___videoheight" expr="getScriptItem( 'session.connection.video.height' )"/> 
+208:<var name="session___videofps" expr="getScriptItem( 'session.connection.video.fps' )"/> 
+209:<var name="session___videobitrate" expr="getScriptItem( 'session.connection.video.bitrate' )"/> 
+210:<var name="session___videonearfmtp" expr="getScriptItem( 'session.connection.video.nearfmtp' )"/> 
+211:<var name="session___videofarfmtp" expr="getScriptItem( 'session.connection.video.farfmtp' )"/> 
+212:<var name="session___ucid" expr="getScriptItem( 'session.avaya.ucid' )"/> 
+213:<var name="session___conversefirst" expr="'unknown'"/> 
+214:<var name="session___conversesecond" expr="'unknown'"/> 
+215:<block> 
+216:<submit next="check_hora?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions" namelist="session___aai session___ani session___dnis session___protocolname session___protocolversion session___uui session___calltag session___channel session___vpcalledextension session___vpcoveragereason session___vpcoveragetype session___vprdnis redirectinfo___uri redirectinfo___presentationinfo redirectinfo___screeninginfo redirectinfo___reason session___sharedmode shareduui___id shareduui___value session___sessionlabel _sipcallid session___mediatype session___videoenabled session___videocodec session___videoformat session___videowidth session___videoheight session___videofps session___videobitrate session___videonearfmtp session___videofarfmtp session___ucid session___conversefirst session___conversesecond" method="post"/> 
+217:</block> 
+218:</form> 
+219:</vxml> 
+220:
+
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Using SCESession CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions servlet : check_hora
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___aai to complex: session:aai  as []
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___ani to complex: session:ani  as [undefined]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___calltag to complex: session:calltag  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___channel to complex: session:channel  as [0]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___dnis to complex: session:dnis  as [undefined]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___protocolname to complex: session:protocolname  as [pots]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___ucid to complex: session:ucid  as [undefined]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___uui to complex: session:uui  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___videofps to complex: session:videofps  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+04/04/2022 16:49:56:392  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+04/04/2022 16:49:56:462  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : [condition1] Expression [time:hour] Numeric Greater Than [6]
+04/04/2022 16:49:56:462  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : [expression1] Expression [time:hour] Numeric Less Than [12]
+04/04/2022 16:49:56:462  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Using SCESession CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions servlet : speak_dia
+04/04/2022 16:49:56:513 DEBUG - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/speak_dia] ***
+04/04/2022 16:49:56:513 DEBUG - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<form id="speak_dia"> 
+7:<block> 
+8:<prompt bargein="true" bargeintype="speech" timeout="8000ms"> 
+9:<audio src="http://localhost:8080/noovi_cloud_solutions/data/portuguese/phrases/msg001.wav"/> 
+10:</prompt> 
+11:</block> 
+12:<catch event="connection.disconnect"> 
+13:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions"/> 
+14:</catch> 
+15:<block> 
+16:<submit next="menu_opcoes?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions"/> 
+17:</block> 
+18:</form> 
+19:</vxml> 
+20:
+
+04/04/2022 16:49:56:527  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Using SCESession CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions servlet : menu_opcoes
+04/04/2022 16:49:56:592 DEBUG - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/menu_opcoes] ***
+04/04/2022 16:49:56:592 DEBUG - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<property name="maxnbest" value="1"/> 
+7:<var name="nbest" expr="1"/> 
+8:<var name="menu_opcoes___value"/> 
+9:<var name="menu_opcoes___confidence"/> 
+10:<var name="menu_opcoes___utterance"/> 
+11:<var name="menu_opcoes___inputmode"/> 
+12:<var name="menu_opcoes___interpretation" expr="'undefined'"/> 
+13:<var name="menu_opcoes___noinputcount" expr="'0'"/> 
+14:<var name="menu_opcoes___nomatchcount" expr="'0'"/> 
+15:<var name="ddmenuchoice"/> 
+16:<menu id="menu_opcoes"> 
+17:<prompt bargein="true" bargeintype="speech" timeout="8000ms"> 
+18:<audio src="http://localhost:8080/noovi_cloud_solutions/data/portuguese/phrases/msg004.wav"/> 
+19:</prompt> 
+20:<choice  dtmf="1" accept="exact" next="#choice0"> 
+21:</choice> 
+22:<choice  dtmf="2" accept="exact" next="#choice1"> 
+23:</choice> 
+24:<choice  dtmf="3" accept="exact" next="#choice2"> 
+25:</choice> 
+26:<choice  dtmf="9" accept="exact" next="#choice3"> 
+27:</choice> 
+28:<catch event="noinput"> 
+29:<assign name="_avayaNoinputCounter" expr="_avayaNoinputCounter + 1"/> 
+30:<if cond="typeof(menu_opcoes___noinputcount) == 'undefined' || typeof(menu_opcoes___nomatchcount) == 'undefined'"> 
+31:    <submit next="check_tentativas_1?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions"/> 
+32:<else/> 
+33:    <assign name="menu_opcoes___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+34:    <assign name="menu_opcoes___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+35:    <submit next="check_tentativas_1?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions" namelist="menu_opcoes___noinputcount menu_opcoes___nomatchcount" method="post" enctype="multipart/form-data"/> 
+36:</if> 
+37:</catch> 
+38:<catch event="nomatch"> 
+39:<assign name="_avayaNomatchCounter" expr="_avayaNomatchCounter + 1"/> 
+40:<if cond="typeof(menu_opcoes___noinputcount) == 'undefined' || typeof(menu_opcoes___nomatchcount) == 'undefined'"> 
+41:    <submit next="check_tentativas_1?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions"/> 
+42:<else/> 
+43:    <assign name="menu_opcoes___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+44:    <assign name="menu_opcoes___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+45:    <submit next="check_tentativas_1?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions" namelist="menu_opcoes___noinputcount menu_opcoes___nomatchcount" method="post" enctype="multipart/form-data"/> 
+46:</if> 
+47:</catch> 
+48:<catch event="connection.disconnect"> 
+49:<if cond="typeof(menu_opcoes___noinputcount) == 'undefined' || typeof(menu_opcoes___nomatchcount) == 'undefined'"> 
+50:    <submit next="AvayaDefaultDisconnectHandler?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions"/> 
+51:<else/> 
+52:    <assign name="menu_opcoes___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+53:    <assign name="menu_opcoes___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+54:    <submit next="AvayaDefaultDisconnectHandler?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions" namelist="menu_opcoes___noinputcount menu_opcoes___nomatchcount" method="post" enctype="multipart/form-data"/> 
+55:</if> 
+56:</catch> 
+57:</menu> 
+58:<form id="choice0"> 
+59:<block> 
+60:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions'"/> 
+61:<goto next="#ddfinish"/> 
+62:</block> 
+63:<catch event="connection.disconnect"> 
+64:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions"/> 
+65:</catch> 
+66:</form> 
+67:<form id="choice1"> 
+68:<block> 
+69:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions'"/> 
+70:<goto next="#ddfinish"/> 
+71:</block> 
+72:<catch event="connection.disconnect"> 
+73:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions"/> 
+74:</catch> 
+75:</form> 
+76:<form id="choice2"> 
+77:<block> 
+78:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions'"/> 
+79:<goto next="#ddfinish"/> 
+80:</block> 
+81:<catch event="connection.disconnect"> 
+82:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions"/> 
+83:</catch> 
+84:</form> 
+85:<form id="choice3"> 
+86:<block> 
+87:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions'"/> 
+88:<goto next="#ddfinish"/> 
+89:</block> 
+90:<catch event="connection.disconnect"> 
+91:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions"/> 
+92:</catch> 
+93:</form> 
+94:<form id="ddfinish"> 
+95:<block> 
+96:<assign name="menu_opcoes___confidence" expr="getnbest('confidence', nbest)"/> 
+97:<assign name="menu_opcoes___utterance" expr="getnbest('utterance', nbest)"/> 
+98:<assign name="menu_opcoes___inputmode" expr="getnbest('inputmode', nbest)"/> 
+99:<assign name="menu_opcoes___interpretation" expr="getnbest('interpretation', nbest)"/> 
+100:<if cond="startswith(menu_opcoes___interpretation, 'undefined') == true "> 
+101:    <assign name="menu_opcoes___interpretation" expr="getnbest('interpretation', nbest)"/> 
+102:</if> 
+103:<assign name="menu_opcoes___value" expr="menu_opcoes___interpretation"/> 
+104:<assign name="menu_opcoes___noinputcount" expr="getnbestnmni(_avayaNoinputCounter, nbest)"/> 
+105:<assign name="menu_opcoes___nomatchcount" expr="getnbestnmni(_avayaNomatchCounter, nbest)"/> 
+106:<submit expr="ddmenuchoice" namelist="menu_opcoes___value menu_opcoes___confidence menu_opcoes___utterance menu_opcoes___inputmode menu_opcoes___interpretation menu_opcoes___noinputcount menu_opcoes___nomatchcount "  method="post"/> 
+107:</block> 
+108:<catch event="connection.disconnect"> 
+109:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions"/> 
+110:</catch> 
+111:</form> 
+112:</vxml> 
+113:
+
+04/04/2022 16:50:03:602  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Using SCESession CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions servlet : speak_transfere
+04/04/2022 16:50:03:608  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :menu_opcoes___confidence to complex: menu_opcoes:confidence  as [0.949999988079071]
+04/04/2022 16:50:03:608  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :menu_opcoes___inputmode to complex: menu_opcoes:inputmode  as [dtmf]
+04/04/2022 16:50:03:608  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :menu_opcoes___interpretation to complex: menu_opcoes:interpretation  as [2]
+04/04/2022 16:50:03:609  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :menu_opcoes___noinputcount to complex: menu_opcoes:noinputcount  as [0]
+04/04/2022 16:50:03:609  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :menu_opcoes___nomatchcount to complex: menu_opcoes:nomatchcount  as [0]
+04/04/2022 16:50:03:609  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :menu_opcoes___utterance to complex: menu_opcoes:utterance  as [2]
+04/04/2022 16:50:03:609  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Storing :menu_opcoes___value to complex: menu_opcoes:value  as [2]
+04/04/2022 16:50:03:672 DEBUG - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/speak_transfere] ***
+04/04/2022 16:50:03:672 DEBUG - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<form id="speak_transfere"> 
+7:<block> 
+8:<prompt bargein="true" bargeintype="speech" timeout="8000ms"> 
+9:<audio src="http://localhost:8080/noovi_cloud_solutions/data/portuguese/phrases/msg007.wav"/> 
+10:</prompt> 
+11:</block> 
+12:<catch event="connection.disconnect"> 
+13:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions"/> 
+14:</catch> 
+15:<block> 
+16:<submit next="transfer?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions"/> 
+17:</block> 
+18:</form> 
+19:</vxml> 
+20:
+
+04/04/2022 16:50:03:692  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Using SCESession CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions servlet : transfer
+04/04/2022 16:50:03:746 DEBUG - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/transfer] ***
+04/04/2022 16:50:03:746 DEBUG - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<form id="transfer"> 
+7:<transfer name="transfer" dest="tel:12345" type="blind" connecttimeout="0s" maxtime="0s"> 
+8:<catch event="connection.disconnect.transfer"> 
+9:<submit next="quit?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions" namelist="transfer" method="get"/> 
+10:</catch> 
+11:<filled> 
+12:</filled> 
+13:</transfer> 
+14:<catch event="connection.disconnect"> 
+15:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions"/> 
+16:</catch> 
+17:<block> 
+18:<submit next="quit?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions" namelist="transfer" method="get"/> 
+19:</block> 
+20:</form> 
+21:</vxml> 
+22:
+
+04/04/2022 16:50:07:417  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Using SCESession CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions servlet : quit
+04/04/2022 16:50:07:482 DEBUG - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/quit] ***
+04/04/2022 16:50:07:482 DEBUG - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<form id="quit"> 
+7:<block> 
+8:<disconnect/> 
+9:</block> 
+10:<catch event="connection.disconnect"> 
+11:<var name="avayadonotsave___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+12:<var name="avayadonotsave___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+13:<submit next="end?___DDSESSIONID=CD8A5B85BCC9F8F2EE5B2A3978AB06FE%3A%2Fnoovi_cloud_solutions" namelist="avayadonotsave___noinputcount avayadonotsave___nomatchcount" method="get"/> 
+14:</catch> 
+15:</form> 
+16:</vxml> 
+17:
+
+04/04/2022 16:50:07:482  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Using SCESession CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions servlet : end
+04/04/2022 16:50:07:537 DEBUG - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/end] ***
+04/04/2022 16:50:07:537 DEBUG - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<var name="_avayaExitReason" expr="''"/> 
+7:<var name="_avayaExitInfo1" expr="''"/> 
+8:<var name="_avayaExitInfo2" expr="''"/> 
+9:<var name="_avayaExitCustomerId" expr="''"/> 
+10:<var name="_avayaExitPreferredPath" expr="'1'"/> 
+11:<var name="_avayaExitTopic" expr="''"/> 
+12:<var name="_avayaExitParentId" expr="''"/> 
+13:<form id="end"> 
+14:<block> 
+15:<exit namelist="_avayaExitReason _avayaExitInfo1 _avayaExitInfo2 _avayaExitCustomerId _avayaExitPreferredPath _avayaExitTopic _avayaExitParentId"/> 
+16:</block> 
+17:<catch event="connection.disconnect"> 
+18:    <exit namelist="_avayaExitReason _avayaExitInfo1 _avayaExitInfo2 _avayaExitCustomerId _avayaExitPreferredPath _avayaExitTopic _avayaExitParentId"/> 
+19:</catch> 
+20:<block> 
+21:</block> 
+22:</form> 
+23:</vxml> 
+24:
+
+04/04/2022 16:50:07:546  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Removing session from AvayaSessionTermination Servlet
+04/04/2022 16:50:07:547  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+04/04/2022 16:50:07:547  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : HTTP Session lost removing SCESession CD8A5B85BCC9F8F2EE5B2A3978AB06FE
+04/04/2022 16:50:07:547  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : SCESession Removed
+04/04/2022 16:50:07:547 DEBUG - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : Removing 1 session stack frames.
+04/04/2022 16:50:07:547  INFO - CD8A5B85BCC9F8F2EE5B2A3978AB06FE:/noovi_cloud_solutions : ** Popped Stack Frame [/noovi_cloud_solutions]
+04/04/2022 16:53:01:516  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : SCESession bound to HttpSession ED33051B4E6BD25C2B093E1419FC4745
+04/04/2022 16:53:01:516  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Browser Version 2.1.4, terminationURL enabled : true
+04/04/2022 16:53:01:523  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Using SCESession ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions servlet : Start
+04/04/2022 16:53:01:587  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : ** Pushed Stack Frame [/noovi_cloud_solutions]
+04/04/2022 16:53:01:607 DEBUG - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Not able to save posted variable information [call_classification]
+04/04/2022 16:53:01:612  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___sessionid to complex: session:sessionid  as [sess5199841]
+04/04/2022 16:53:01:612  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+04/04/2022 16:53:02:262  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : runtime_platform : Desktop
+04/04/2022 16:53:02:262  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : runtime_asr : SRGS-Literals
+04/04/2022 16:53:02:271  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : MessageType is speech
+04/04/2022 16:53:02:271 DEBUG - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/Start] ***
+04/04/2022 16:53:02:276 DEBUG - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<script> 
+7:function getnbest(  item, nbest ) { 
+8:    var len = application.lastresult$.length; 
+9:    var result = ""; 
+10:     
+11:    if ( len &gt; nbest) { 
+12:        len = nbest; 
+13:    } 
+14:    for (var i = 0; i &lt; len; i++) { 
+15:        if (i &gt; 0) { 
+16:            result += " |"; 
+17:        } 
+18:        var temp  =  "application.lastresult$[" + i + "]." + item; 
+19:        result += extractprops( "", eval(temp)); 
+20:    } 
+21:    return result; 
+22:} 
+23: 
+24:function getnbestnmni(  item, nbest ) { 
+25:    var len = application.lastresult$.length; 
+26:    var result = ""; 
+27:     
+28:    if ( len &gt; nbest) { 
+29:        len = nbest; 
+30:    } 
+31:    for (var i = 0; i &lt; len; i++) { 
+32:        if (i &gt; 0) { 
+33:            result += " |"; 
+34:        } 
+35:        result += item; 
+36:    } 
+37:    return result; 
+38:} 
+39: 
+40:function extractprops ( parent, obj ) { 
+41:    var prop, name, result = ""; 
+42:    var count = 1; 
+43:    if ( typeof ( obj ) == "object" ) { 
+44:        for ( prop in obj ) { 
+45:            name = parent + prop; 
+46:            if ( typeof ( obj [ prop ] ) == "object" ) { 
+47:                result += extractprops( name+".", obj [ prop ] ); 
+48:            } else { 
+49:                if (count == 1) { 
+50:                    result = obj [ prop ]; 
+51:                } else { 
+52:                    result += " " + obj [ prop ]; 
+53:                } 
+54:            } 
+55:            count = count + 1; 
+56:        } 
+57:    } else { 
+58:        if (obj == undefined ) { 
+59:            result +=  "undefined"; 
+60:        } else { 
+61:            result +=  obj; 
+62:        } 
+63:    } 
+64:    return result; 
+65:} 
+66: 
+67:function startswith ( value, startwith ) { 
+68:    var index; 
+69:    index = value.indexOf(startwith, 0); 
+70:    if ( index == 0 ) { 
+71:       return true; 
+72:    } else { 
+73:       return false; 
+74:    } 
+75:} 
+76: 
+77:function containsUndefined ( value ) { 
+78:    var index; 
+79:    index = value.indexOf('undefined', 0); 
+80:    if ( index == -1 ) { 
+81:       return false; 
+82:    } else { 
+83:       return true; 
+84:    } 
+85:} 
+86: 
+87:</script> 
+88:<script> 
+89:function objectToString(  obj ) { 
+90:    try { 
+91:    var result = ""; 
+92:    result += getobjectprops( "", obj); 
+93:    if (result.charAt(0) == '|' ) { 
+94:        result = result.substring(1); 
+95:    }  
+96:    } catch (errMsg) { 
+97:        return("undefined"); 
+98:    } 
+99:    return result; 
+100:} 
+101: 
+102:function getobjectprops ( parent, obj ) { 
+103:    var prop, name, result = ""; 
+104:    if ( typeof ( obj ) == "object" ) {  
+105:        for ( prop in obj ) {  
+106:            name = parent + prop; 
+107:            if ( typeof ( obj [ prop ] ) == "object" ) { 
+108:                result += extractprops( name+".", obj [ prop ] ); 
+109:            } else {  
+110:                result +=   "|"  + obj [ prop ];  
+111:            }  
+112:        }  
+113:    } else {  
+114:        if (obj == undefined ) {  
+115:           result +=  "undefined";  
+116:        } else {  
+117:           result +=  obj;  
+118:        }  
+119:    }  
+120:    return result; 
+121:} 
+122:</script> 
+123:<var name="_avayaExitReason" expr="''"/> 
+124:<var name="_avayaExitInfo1" expr="''"/> 
+125:<var name="_avayaExitInfo2" expr="''"/> 
+126:<var name="_avayaExitCustomerId" expr="''"/> 
+127:<var name="_avayaExitPreferredPath" expr="'1'"/> 
+128:<var name="_avayaExitTopic" expr="''"/> 
+129:<var name="_avayaExitParentId" expr="''"/> 
+130:<var name="_avayaNoinputCounter" expr="0"/> 
+131:<var name="_avayaNomatchCounter" expr="0"/> 
+132:<meta name="marker" content="Avaya Aura Orchestration Designer Root End"/> 
+133:<form id="Start"> 
+134:<script> 
+135:function getArray( arrayName, item ) { 
+136:    try { 
+137:        var len = eval( arrayName +'.length;'); 
+138:        var result = ""; 
+139:     
+140:        for (var i = 0; i &lt; len; i++) { 
+141:            if (i &gt; 0) { 
+142:                result += " |"; 
+143:            } 
+144:            var temp  =  arrayName + "[" + i + "]." + item; 
+145:            result += eval(temp); 
+146:        } 
+147:        return result; 
+148:    } catch (errMsg) { 
+149:            return('unknown'); 
+150:    } 
+151:} 
+152:function getRedirect( item ) { 
+153:    return(getArray('session.connection.redirect', item)); 
+154:} 
+155:function getShareduui( item ) { 
+156:    return(getArray('session.avaya.uui.shared', item)); 
+157:} 
+158:function getScriptItem( item ) { 
+159:    try { 
+160:        var result = ""; 
+161:        result += eval(item); 
+162:        return result; 
+163:    } catch (errMsg) { 
+164:        return('unknown'); 
+165:    } 
+166:} 
+167:function getSIPCallID() { 
+168:    try { 
+169:        var protocol = getScriptItem( 'session.connection.protocol.name' ); 
+170:        if ( protocol == 'sip'  || protocol == 'SIP' ) { 
+171:            var temp = getScriptItem( 'session.connection.protocol.sip.callid' ); 
+172:            return(temp); 
+173:        } else { 
+174:            return('unknown'); 
+175:        } 
+176:    } catch (errMsg) { 
+177:            return('unknown'); 
+178:    } 
+179:} 
+180:</script> 
+181:<var name="session___aai" expr="getScriptItem( 'session.connection.aai' )"/> 
+182:<var name="session___ani" expr="getScriptItem( 'session.connection.remote.uri' )"/> 
+183:<var name="session___dnis" expr="getScriptItem( 'session.connection.local.uri' )"/> 
+184:<var name="session___protocolname" expr="getScriptItem( 'session.connection.protocol.name' )"/> 
+185:<var name="session___protocolversion" expr="getScriptItem( 'session.connection.protocol.version' )"/> 
+186:<var name="session___uui" expr="'unknown'"/> 
+187:<var name="session___calltag" expr="'unknown'"/> 
+188:<var name="session___channel" expr="getScriptItem( 'session.avaya.telephone.channel' )"/> 
+189:<var name="session___vpcalledextension" expr="'unknown'"/> 
+190:<var name="session___vpcoveragereason" expr="'unknown'"/> 
+191:<var name="session___vpcoveragetype" expr="'unknown'"/> 
+192:<var name="session___vprdnis" expr="'unknown'"/> 
+193:<var name="redirectinfo___uri" expr="getRedirect('uri')"/> 
+194:<var name="redirectinfo___presentationinfo" expr="getRedirect('pi')"/> 
+195:<var name="redirectinfo___screeninginfo" expr="getRedirect('si')"/> 
+196:<var name="redirectinfo___reason" expr="getRedirect('reason')"/> 
+197:<var name="session___sharedmode" expr="getScriptItem( 'session.avaya.uui.mode' )"/> 
+198:<var name="shareduui___id" expr="getShareduui('id')"/> 
+199:<var name="shareduui___value" expr="getShareduui('value')"/> 
+200:<var name="session___sessionlabel" expr="getScriptItem( 'session.avaya.ucid' )"/> 
+201:<var name="_sipcallid" expr="getSIPCallID()"/> 
+202:<var name="session___mediatype" expr="getScriptItem( 'session.connection.protocol.sip.media[1].type' )"/> 
+203:<var name="session___videoenabled" expr="getScriptItem( 'session.connection.video.enabled' )"/> 
+204:<var name="session___videocodec" expr="getScriptItem( 'session.connection.video.codec' )"/> 
+205:<var name="session___videoformat" expr="getScriptItem( 'session.connection.video.format' )"/> 
+206:<var name="session___videowidth" expr="getScriptItem( 'session.connection.video.width' )"/> 
+207:<var name="session___videoheight" expr="getScriptItem( 'session.connection.video.height' )"/> 
+208:<var name="session___videofps" expr="getScriptItem( 'session.connection.video.fps' )"/> 
+209:<var name="session___videobitrate" expr="getScriptItem( 'session.connection.video.bitrate' )"/> 
+210:<var name="session___videonearfmtp" expr="getScriptItem( 'session.connection.video.nearfmtp' )"/> 
+211:<var name="session___videofarfmtp" expr="getScriptItem( 'session.connection.video.farfmtp' )"/> 
+212:<var name="session___ucid" expr="getScriptItem( 'session.avaya.ucid' )"/> 
+213:<var name="session___conversefirst" expr="'unknown'"/> 
+214:<var name="session___conversesecond" expr="'unknown'"/> 
+215:<block> 
+216:<submit next="check_hora?___DDSESSIONID=ED33051B4E6BD25C2B093E1419FC4745%3A%2Fnoovi_cloud_solutions" namelist="session___aai session___ani session___dnis session___protocolname session___protocolversion session___uui session___calltag session___channel session___vpcalledextension session___vpcoveragereason session___vpcoveragetype session___vprdnis redirectinfo___uri redirectinfo___presentationinfo redirectinfo___screeninginfo redirectinfo___reason session___sharedmode shareduui___id shareduui___value session___sessionlabel _sipcallid session___mediatype session___videoenabled session___videocodec session___videoformat session___videowidth session___videoheight session___videofps session___videobitrate session___videonearfmtp session___videofarfmtp session___ucid session___conversefirst session___conversesecond" method="post"/> 
+217:</block> 
+218:</form> 
+219:</vxml> 
+220:
+
+04/04/2022 16:53:02:286  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Using SCESession ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions servlet : check_hora
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___aai to complex: session:aai  as []
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___ani to complex: session:ani  as [undefined]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___calltag to complex: session:calltag  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___channel to complex: session:channel  as [0]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___dnis to complex: session:dnis  as [undefined]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___protocolname to complex: session:protocolname  as [pots]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___ucid to complex: session:ucid  as [undefined]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___uui to complex: session:uui  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___videofps to complex: session:videofps  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+04/04/2022 16:53:02:291  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+04/04/2022 16:53:02:361  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : [condition1] Expression [time:hour] Numeric Greater Than [6]
+04/04/2022 16:53:02:361  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : [expression1] Expression [time:hour] Numeric Less Than [12]
+04/04/2022 16:53:02:366  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Using SCESession ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions servlet : speak_dia
+04/04/2022 16:53:02:461 DEBUG - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/speak_dia] ***
+04/04/2022 16:53:02:461 DEBUG - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<form id="speak_dia"> 
+7:<block> 
+8:<prompt bargein="true" bargeintype="speech" timeout="8000ms"> 
+9:<audio src="http://localhost:8080/noovi_cloud_solutions/data/portuguese/phrases/msg001.wav"/> 
+10:</prompt> 
+11:</block> 
+12:<catch event="connection.disconnect"> 
+13:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=ED33051B4E6BD25C2B093E1419FC4745%3A%2Fnoovi_cloud_solutions"/> 
+14:</catch> 
+15:<block> 
+16:<submit next="menu_opcoes?___DDSESSIONID=ED33051B4E6BD25C2B093E1419FC4745%3A%2Fnoovi_cloud_solutions"/> 
+17:</block> 
+18:</form> 
+19:</vxml> 
+20:
+
+04/04/2022 16:53:02:517  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Using SCESession ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions servlet : menu_opcoes
+04/04/2022 16:53:02:601 DEBUG - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/menu_opcoes] ***
+04/04/2022 16:53:02:601 DEBUG - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<property name="maxnbest" value="1"/> 
+7:<var name="nbest" expr="1"/> 
+8:<var name="menu_opcoes___value"/> 
+9:<var name="menu_opcoes___confidence"/> 
+10:<var name="menu_opcoes___utterance"/> 
+11:<var name="menu_opcoes___inputmode"/> 
+12:<var name="menu_opcoes___interpretation" expr="'undefined'"/> 
+13:<var name="menu_opcoes___noinputcount" expr="'0'"/> 
+14:<var name="menu_opcoes___nomatchcount" expr="'0'"/> 
+15:<var name="ddmenuchoice"/> 
+16:<menu id="menu_opcoes"> 
+17:<prompt bargein="true" bargeintype="speech" timeout="8000ms"> 
+18:<audio src="http://localhost:8080/noovi_cloud_solutions/data/portuguese/phrases/msg004.wav"/> 
+19:</prompt> 
+20:<choice  dtmf="1" accept="exact" next="#choice0"> 
+21:</choice> 
+22:<choice  dtmf="2" accept="exact" next="#choice1"> 
+23:</choice> 
+24:<choice  dtmf="3" accept="exact" next="#choice2"> 
+25:</choice> 
+26:<choice  dtmf="9" accept="exact" next="#choice3"> 
+27:</choice> 
+28:<catch event="noinput"> 
+29:<assign name="_avayaNoinputCounter" expr="_avayaNoinputCounter + 1"/> 
+30:<if cond="typeof(menu_opcoes___noinputcount) == 'undefined' || typeof(menu_opcoes___nomatchcount) == 'undefined'"> 
+31:    <submit next="check_tentativas_1?___DDSESSIONID=ED33051B4E6BD25C2B093E1419FC4745%3A%2Fnoovi_cloud_solutions"/> 
+32:<else/> 
+33:    <assign name="menu_opcoes___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+34:    <assign name="menu_opcoes___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+35:    <submit next="check_tentativas_1?___DDSESSIONID=ED33051B4E6BD25C2B093E1419FC4745%3A%2Fnoovi_cloud_solutions" namelist="menu_opcoes___noinputcount menu_opcoes___nomatchcount" method="post" enctype="multipart/form-data"/> 
+36:</if> 
+37:</catch> 
+38:<catch event="nomatch"> 
+39:<assign name="_avayaNomatchCounter" expr="_avayaNomatchCounter + 1"/> 
+40:<if cond="typeof(menu_opcoes___noinputcount) == 'undefined' || typeof(menu_opcoes___nomatchcount) == 'undefined'"> 
+41:    <submit next="check_tentativas_1?___DDSESSIONID=ED33051B4E6BD25C2B093E1419FC4745%3A%2Fnoovi_cloud_solutions"/> 
+42:<else/> 
+43:    <assign name="menu_opcoes___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+44:    <assign name="menu_opcoes___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+45:    <submit next="check_tentativas_1?___DDSESSIONID=ED33051B4E6BD25C2B093E1419FC4745%3A%2Fnoovi_cloud_solutions" namelist="menu_opcoes___noinputcount menu_opcoes___nomatchcount" method="post" enctype="multipart/form-data"/> 
+46:</if> 
+47:</catch> 
+48:<catch event="connection.disconnect"> 
+49:<if cond="typeof(menu_opcoes___noinputcount) == 'undefined' || typeof(menu_opcoes___nomatchcount) == 'undefined'"> 
+50:    <submit next="AvayaDefaultDisconnectHandler?___DDSESSIONID=ED33051B4E6BD25C2B093E1419FC4745%3A%2Fnoovi_cloud_solutions"/> 
+51:<else/> 
+52:    <assign name="menu_opcoes___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+53:    <assign name="menu_opcoes___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+54:    <submit next="AvayaDefaultDisconnectHandler?___DDSESSIONID=ED33051B4E6BD25C2B093E1419FC4745%3A%2Fnoovi_cloud_solutions" namelist="menu_opcoes___noinputcount menu_opcoes___nomatchcount" method="post" enctype="multipart/form-data"/> 
+55:</if> 
+56:</catch> 
+57:</menu> 
+58:<form id="choice0"> 
+59:<block> 
+60:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=ED33051B4E6BD25C2B093E1419FC4745%3A%2Fnoovi_cloud_solutions'"/> 
+61:<goto next="#ddfinish"/> 
+62:</block> 
+63:<catch event="connection.disconnect"> 
+64:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=ED33051B4E6BD25C2B093E1419FC4745%3A%2Fnoovi_cloud_solutions"/> 
+65:</catch> 
+66:</form> 
+67:<form id="choice1"> 
+68:<block> 
+69:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=ED33051B4E6BD25C2B093E1419FC4745%3A%2Fnoovi_cloud_solutions'"/> 
+70:<goto next="#ddfinish"/> 
+71:</block> 
+72:<catch event="connection.disconnect"> 
+73:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=ED33051B4E6BD25C2B093E1419FC4745%3A%2Fnoovi_cloud_solutions"/> 
+74:</catch> 
+75:</form> 
+76:<form id="choice2"> 
+77:<block> 
+78:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=ED33051B4E6BD25C2B093E1419FC4745%3A%2Fnoovi_cloud_solutions'"/> 
+79:<goto next="#ddfinish"/> 
+80:</block> 
+81:<catch event="connection.disconnect"> 
+82:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=ED33051B4E6BD25C2B093E1419FC4745%3A%2Fnoovi_cloud_solutions"/> 
+83:</catch> 
+84:</form> 
+85:<form id="choice3"> 
+86:<block> 
+87:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=ED33051B4E6BD25C2B093E1419FC4745%3A%2Fnoovi_cloud_solutions'"/> 
+88:<goto next="#ddfinish"/> 
+89:</block> 
+90:<catch event="connection.disconnect"> 
+91:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=ED33051B4E6BD25C2B093E1419FC4745%3A%2Fnoovi_cloud_solutions"/> 
+92:</catch> 
+93:</form> 
+94:<form id="ddfinish"> 
+95:<block> 
+96:<assign name="menu_opcoes___confidence" expr="getnbest('confidence', nbest)"/> 
+97:<assign name="menu_opcoes___utterance" expr="getnbest('utterance', nbest)"/> 
+98:<assign name="menu_opcoes___inputmode" expr="getnbest('inputmode', nbest)"/> 
+99:<assign name="menu_opcoes___interpretation" expr="getnbest('interpretation', nbest)"/> 
+100:<if cond="startswith(menu_opcoes___interpretation, 'undefined') == true "> 
+101:    <assign name="menu_opcoes___interpretation" expr="getnbest('interpretation', nbest)"/> 
+102:</if> 
+103:<assign name="menu_opcoes___value" expr="menu_opcoes___interpretation"/> 
+104:<assign name="menu_opcoes___noinputcount" expr="getnbestnmni(_avayaNoinputCounter, nbest)"/> 
+105:<assign name="menu_opcoes___nomatchcount" expr="getnbestnmni(_avayaNomatchCounter, nbest)"/> 
+106:<submit expr="ddmenuchoice" namelist="menu_opcoes___value menu_opcoes___confidence menu_opcoes___utterance menu_opcoes___inputmode menu_opcoes___interpretation menu_opcoes___noinputcount menu_opcoes___nomatchcount "  method="post"/> 
+107:</block> 
+108:<catch event="connection.disconnect"> 
+109:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=ED33051B4E6BD25C2B093E1419FC4745%3A%2Fnoovi_cloud_solutions"/> 
+110:</catch> 
+111:</form> 
+112:</vxml> 
+113:
+
+04/04/2022 16:53:07:667  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Using SCESession ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions servlet : AvayaDefaultDisconnectHandler
+04/04/2022 16:53:07:687  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :menu_opcoes___nomatchcount to complex: menu_opcoes:nomatchcount  as [0]
+04/04/2022 16:53:07:687  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Storing :menu_opcoes___noinputcount to complex: menu_opcoes:noinputcount  as [0]
+04/04/2022 16:53:07:783 DEBUG - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/AvayaDefaultDisconnectHandler] ***
+04/04/2022 16:53:07:783 DEBUG - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<var name="_avayaExitReason" expr="''"/> 
+7:<var name="_avayaExitInfo1" expr="''"/> 
+8:<var name="_avayaExitInfo2" expr="''"/> 
+9:<var name="_avayaExitCustomerId" expr="''"/> 
+10:<var name="_avayaExitPreferredPath" expr="'1'"/> 
+11:<var name="_avayaExitTopic" expr="''"/> 
+12:<var name="_avayaExitParentId" expr="''"/> 
+13:<form id="DefaultDisconnect"> 
+14:<block> 
+15:<exit namelist="_avayaExitReason _avayaExitInfo1 _avayaExitInfo2 _avayaExitCustomerId _avayaExitPreferredPath _avayaExitTopic _avayaExitParentId"/> 
+16:</block> 
+17:<catch event="connection.disconnect"> 
+18:    <exit namelist="_avayaExitReason _avayaExitInfo1 _avayaExitInfo2 _avayaExitCustomerId _avayaExitPreferredPath _avayaExitTopic _avayaExitParentId"/> 
+19:</catch> 
+20:<block> 
+21:</block> 
+22:</form> 
+23:</vxml> 
+24:
+
+04/04/2022 16:53:07:788  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Removing session from AvayaSessionTermination Servlet
+04/04/2022 16:53:07:788  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+04/04/2022 16:53:07:788  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : HTTP Session lost removing SCESession ED33051B4E6BD25C2B093E1419FC4745
+04/04/2022 16:53:07:788  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : SCESession Removed
+04/04/2022 16:53:07:788 DEBUG - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : Removing 1 session stack frames.
+04/04/2022 16:53:07:788  INFO - ED33051B4E6BD25C2B093E1419FC4745:/noovi_cloud_solutions : ** Popped Stack Frame [/noovi_cloud_solutions]
+04/04/2022 16:58:02:814  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : SCESession bound to HttpSession BFC42899868DB3DFCDDF8840BDEE83BA
+04/04/2022 16:58:02:814  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Browser Version 2.1.4, terminationURL enabled : true
+04/04/2022 16:58:02:819  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Using SCESession BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions servlet : Start
+04/04/2022 16:58:02:875  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : ** Pushed Stack Frame [/noovi_cloud_solutions]
+04/04/2022 16:58:02:920 DEBUG - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Not able to save posted variable information [call_classification]
+04/04/2022 16:58:02:920  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___sessionid to complex: session:sessionid  as [sess3443570]
+04/04/2022 16:58:02:920  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+04/04/2022 16:58:03:549  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : runtime_platform : Desktop
+04/04/2022 16:58:03:549  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : runtime_asr : SRGS-Literals
+04/04/2022 16:58:03:555  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : MessageType is speech
+04/04/2022 16:58:03:561 DEBUG - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/Start] ***
+04/04/2022 16:58:03:561 DEBUG - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<script> 
+7:function getnbest(  item, nbest ) { 
+8:    var len = application.lastresult$.length; 
+9:    var result = ""; 
+10:     
+11:    if ( len &gt; nbest) { 
+12:        len = nbest; 
+13:    } 
+14:    for (var i = 0; i &lt; len; i++) { 
+15:        if (i &gt; 0) { 
+16:            result += " |"; 
+17:        } 
+18:        var temp  =  "application.lastresult$[" + i + "]." + item; 
+19:        result += extractprops( "", eval(temp)); 
+20:    } 
+21:    return result; 
+22:} 
+23: 
+24:function getnbestnmni(  item, nbest ) { 
+25:    var len = application.lastresult$.length; 
+26:    var result = ""; 
+27:     
+28:    if ( len &gt; nbest) { 
+29:        len = nbest; 
+30:    } 
+31:    for (var i = 0; i &lt; len; i++) { 
+32:        if (i &gt; 0) { 
+33:            result += " |"; 
+34:        } 
+35:        result += item; 
+36:    } 
+37:    return result; 
+38:} 
+39: 
+40:function extractprops ( parent, obj ) { 
+41:    var prop, name, result = ""; 
+42:    var count = 1; 
+43:    if ( typeof ( obj ) == "object" ) { 
+44:        for ( prop in obj ) { 
+45:            name = parent + prop; 
+46:            if ( typeof ( obj [ prop ] ) == "object" ) { 
+47:                result += extractprops( name+".", obj [ prop ] ); 
+48:            } else { 
+49:                if (count == 1) { 
+50:                    result = obj [ prop ]; 
+51:                } else { 
+52:                    result += " " + obj [ prop ]; 
+53:                } 
+54:            } 
+55:            count = count + 1; 
+56:        } 
+57:    } else { 
+58:        if (obj == undefined ) { 
+59:            result +=  "undefined"; 
+60:        } else { 
+61:            result +=  obj; 
+62:        } 
+63:    } 
+64:    return result; 
+65:} 
+66: 
+67:function startswith ( value, startwith ) { 
+68:    var index; 
+69:    index = value.indexOf(startwith, 0); 
+70:    if ( index == 0 ) { 
+71:       return true; 
+72:    } else { 
+73:       return false; 
+74:    } 
+75:} 
+76: 
+77:function containsUndefined ( value ) { 
+78:    var index; 
+79:    index = value.indexOf('undefined', 0); 
+80:    if ( index == -1 ) { 
+81:       return false; 
+82:    } else { 
+83:       return true; 
+84:    } 
+85:} 
+86: 
+87:</script> 
+88:<script> 
+89:function objectToString(  obj ) { 
+90:    try { 
+91:    var result = ""; 
+92:    result += getobjectprops( "", obj); 
+93:    if (result.charAt(0) == '|' ) { 
+94:        result = result.substring(1); 
+95:    }  
+96:    } catch (errMsg) { 
+97:        return("undefined"); 
+98:    } 
+99:    return result; 
+100:} 
+101: 
+102:function getobjectprops ( parent, obj ) { 
+103:    var prop, name, result = ""; 
+104:    if ( typeof ( obj ) == "object" ) {  
+105:        for ( prop in obj ) {  
+106:            name = parent + prop; 
+107:            if ( typeof ( obj [ prop ] ) == "object" ) { 
+108:                result += extractprops( name+".", obj [ prop ] ); 
+109:            } else {  
+110:                result +=   "|"  + obj [ prop ];  
+111:            }  
+112:        }  
+113:    } else {  
+114:        if (obj == undefined ) {  
+115:           result +=  "undefined";  
+116:        } else {  
+117:           result +=  obj;  
+118:        }  
+119:    }  
+120:    return result; 
+121:} 
+122:</script> 
+123:<var name="_avayaExitReason" expr="''"/> 
+124:<var name="_avayaExitInfo1" expr="''"/> 
+125:<var name="_avayaExitInfo2" expr="''"/> 
+126:<var name="_avayaExitCustomerId" expr="''"/> 
+127:<var name="_avayaExitPreferredPath" expr="'1'"/> 
+128:<var name="_avayaExitTopic" expr="''"/> 
+129:<var name="_avayaExitParentId" expr="''"/> 
+130:<var name="_avayaNoinputCounter" expr="0"/> 
+131:<var name="_avayaNomatchCounter" expr="0"/> 
+132:<meta name="marker" content="Avaya Aura Orchestration Designer Root End"/> 
+133:<form id="Start"> 
+134:<script> 
+135:function getArray( arrayName, item ) { 
+136:    try { 
+137:        var len = eval( arrayName +'.length;'); 
+138:        var result = ""; 
+139:     
+140:        for (var i = 0; i &lt; len; i++) { 
+141:            if (i &gt; 0) { 
+142:                result += " |"; 
+143:            } 
+144:            var temp  =  arrayName + "[" + i + "]." + item; 
+145:            result += eval(temp); 
+146:        } 
+147:        return result; 
+148:    } catch (errMsg) { 
+149:            return('unknown'); 
+150:    } 
+151:} 
+152:function getRedirect( item ) { 
+153:    return(getArray('session.connection.redirect', item)); 
+154:} 
+155:function getShareduui( item ) { 
+156:    return(getArray('session.avaya.uui.shared', item)); 
+157:} 
+158:function getScriptItem( item ) { 
+159:    try { 
+160:        var result = ""; 
+161:        result += eval(item); 
+162:        return result; 
+163:    } catch (errMsg) { 
+164:        return('unknown'); 
+165:    } 
+166:} 
+167:function getSIPCallID() { 
+168:    try { 
+169:        var protocol = getScriptItem( 'session.connection.protocol.name' ); 
+170:        if ( protocol == 'sip'  || protocol == 'SIP' ) { 
+171:            var temp = getScriptItem( 'session.connection.protocol.sip.callid' ); 
+172:            return(temp); 
+173:        } else { 
+174:            return('unknown'); 
+175:        } 
+176:    } catch (errMsg) { 
+177:            return('unknown'); 
+178:    } 
+179:} 
+180:</script> 
+181:<var name="session___aai" expr="getScriptItem( 'session.connection.aai' )"/> 
+182:<var name="session___ani" expr="getScriptItem( 'session.connection.remote.uri' )"/> 
+183:<var name="session___dnis" expr="getScriptItem( 'session.connection.local.uri' )"/> 
+184:<var name="session___protocolname" expr="getScriptItem( 'session.connection.protocol.name' )"/> 
+185:<var name="session___protocolversion" expr="getScriptItem( 'session.connection.protocol.version' )"/> 
+186:<var name="session___uui" expr="'unknown'"/> 
+187:<var name="session___calltag" expr="'unknown'"/> 
+188:<var name="session___channel" expr="getScriptItem( 'session.avaya.telephone.channel' )"/> 
+189:<var name="session___vpcalledextension" expr="'unknown'"/> 
+190:<var name="session___vpcoveragereason" expr="'unknown'"/> 
+191:<var name="session___vpcoveragetype" expr="'unknown'"/> 
+192:<var name="session___vprdnis" expr="'unknown'"/> 
+193:<var name="redirectinfo___uri" expr="getRedirect('uri')"/> 
+194:<var name="redirectinfo___presentationinfo" expr="getRedirect('pi')"/> 
+195:<var name="redirectinfo___screeninginfo" expr="getRedirect('si')"/> 
+196:<var name="redirectinfo___reason" expr="getRedirect('reason')"/> 
+197:<var name="session___sharedmode" expr="getScriptItem( 'session.avaya.uui.mode' )"/> 
+198:<var name="shareduui___id" expr="getShareduui('id')"/> 
+199:<var name="shareduui___value" expr="getShareduui('value')"/> 
+200:<var name="session___sessionlabel" expr="getScriptItem( 'session.avaya.ucid' )"/> 
+201:<var name="_sipcallid" expr="getSIPCallID()"/> 
+202:<var name="session___mediatype" expr="getScriptItem( 'session.connection.protocol.sip.media[1].type' )"/> 
+203:<var name="session___videoenabled" expr="getScriptItem( 'session.connection.video.enabled' )"/> 
+204:<var name="session___videocodec" expr="getScriptItem( 'session.connection.video.codec' )"/> 
+205:<var name="session___videoformat" expr="getScriptItem( 'session.connection.video.format' )"/> 
+206:<var name="session___videowidth" expr="getScriptItem( 'session.connection.video.width' )"/> 
+207:<var name="session___videoheight" expr="getScriptItem( 'session.connection.video.height' )"/> 
+208:<var name="session___videofps" expr="getScriptItem( 'session.connection.video.fps' )"/> 
+209:<var name="session___videobitrate" expr="getScriptItem( 'session.connection.video.bitrate' )"/> 
+210:<var name="session___videonearfmtp" expr="getScriptItem( 'session.connection.video.nearfmtp' )"/> 
+211:<var name="session___videofarfmtp" expr="getScriptItem( 'session.connection.video.farfmtp' )"/> 
+212:<var name="session___ucid" expr="getScriptItem( 'session.avaya.ucid' )"/> 
+213:<var name="session___conversefirst" expr="'unknown'"/> 
+214:<var name="session___conversesecond" expr="'unknown'"/> 
+215:<block> 
+216:<submit next="check_hora?___DDSESSIONID=BFC42899868DB3DFCDDF8840BDEE83BA%3A%2Fnoovi_cloud_solutions" namelist="session___aai session___ani session___dnis session___protocolname session___protocolversion session___uui session___calltag session___channel session___vpcalledextension session___vpcoveragereason session___vpcoveragetype session___vprdnis redirectinfo___uri redirectinfo___presentationinfo redirectinfo___screeninginfo redirectinfo___reason session___sharedmode shareduui___id shareduui___value session___sessionlabel _sipcallid session___mediatype session___videoenabled session___videocodec session___videoformat session___videowidth session___videoheight session___videofps session___videobitrate session___videonearfmtp session___videofarfmtp session___ucid session___conversefirst session___conversesecond" method="post"/> 
+217:</block> 
+218:</form> 
+219:</vxml> 
+220:
+
+04/04/2022 16:58:03:571  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Using SCESession BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions servlet : check_hora
+04/04/2022 16:58:03:571  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+04/04/2022 16:58:03:579  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+04/04/2022 16:58:03:579  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+04/04/2022 16:58:03:579  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+04/04/2022 16:58:03:579  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+04/04/2022 16:58:03:579  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___aai to complex: session:aai  as []
+04/04/2022 16:58:03:579  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___ani to complex: session:ani  as [undefined]
+04/04/2022 16:58:03:579  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___calltag to complex: session:calltag  as [unknown]
+04/04/2022 16:58:03:579  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___channel to complex: session:channel  as [0]
+04/04/2022 16:58:03:579  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+04/04/2022 16:58:03:579  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+04/04/2022 16:58:03:579  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___dnis to complex: session:dnis  as [undefined]
+04/04/2022 16:58:03:579  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+04/04/2022 16:58:03:579  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___protocolname to complex: session:protocolname  as [pots]
+04/04/2022 16:58:03:580  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+04/04/2022 16:58:03:580  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+04/04/2022 16:58:03:580  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+04/04/2022 16:58:03:580  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___ucid to complex: session:ucid  as [undefined]
+04/04/2022 16:58:03:580  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___uui to complex: session:uui  as [unknown]
+04/04/2022 16:58:03:580  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+04/04/2022 16:58:03:580  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+04/04/2022 16:58:03:580  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+04/04/2022 16:58:03:580  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+04/04/2022 16:58:03:580  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+04/04/2022 16:58:03:580  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___videofps to complex: session:videofps  as [unknown]
+04/04/2022 16:58:03:580  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+04/04/2022 16:58:03:580  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+04/04/2022 16:58:03:580  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+04/04/2022 16:58:03:580  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+04/04/2022 16:58:03:580  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+04/04/2022 16:58:03:580  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+04/04/2022 16:58:03:580  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+04/04/2022 16:58:03:580  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+04/04/2022 16:58:03:580  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+04/04/2022 16:58:03:670  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Adding [hora_1(L)] and [time:hour] to [hora_1(L)]
+04/04/2022 16:58:03:672  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : [expression1] Expression [hora_1(L)] Numeric Less Than [12]
+04/04/2022 16:58:03:675  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : [expression2] Expression [hora_1(L)] Numeric Greater Than [5]
+04/04/2022 16:58:03:675  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : [expression3] Expression [hora_1(L)] Numeric Less Than [19]
+04/04/2022 16:58:03:675  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : [expression4] Expression [hora_1(L)] Numeric Greater Than [12]
+04/04/2022 16:58:03:675  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Using SCESession BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions servlet : speak_tarde
+04/04/2022 16:58:03:776 DEBUG - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/speak_tarde] ***
+04/04/2022 16:58:03:776 DEBUG - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<form id="speak_tarde"> 
+7:<block> 
+8:<prompt bargein="true" bargeintype="speech" timeout="8000ms"> 
+9:<audio src="http://localhost:8080/noovi_cloud_solutions/data/portuguese/phrases/msg002.wav"/> 
+10:</prompt> 
+11:</block> 
+12:<catch event="connection.disconnect"> 
+13:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=BFC42899868DB3DFCDDF8840BDEE83BA%3A%2Fnoovi_cloud_solutions"/> 
+14:</catch> 
+15:<block> 
+16:<submit next="menu_opcoes?___DDSESSIONID=BFC42899868DB3DFCDDF8840BDEE83BA%3A%2Fnoovi_cloud_solutions"/> 
+17:</block> 
+18:</form> 
+19:</vxml> 
+20:
+
+04/04/2022 16:58:03:796  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Using SCESession BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions servlet : menu_opcoes
+04/04/2022 16:58:03:882 DEBUG - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/menu_opcoes] ***
+04/04/2022 16:58:03:887 DEBUG - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<property name="maxnbest" value="1"/> 
+7:<var name="nbest" expr="1"/> 
+8:<var name="menu_opcoes___value"/> 
+9:<var name="menu_opcoes___confidence"/> 
+10:<var name="menu_opcoes___utterance"/> 
+11:<var name="menu_opcoes___inputmode"/> 
+12:<var name="menu_opcoes___interpretation" expr="'undefined'"/> 
+13:<var name="menu_opcoes___noinputcount" expr="'0'"/> 
+14:<var name="menu_opcoes___nomatchcount" expr="'0'"/> 
+15:<var name="ddmenuchoice"/> 
+16:<menu id="menu_opcoes"> 
+17:<prompt bargein="true" bargeintype="speech" timeout="8000ms"> 
+18:<audio src="http://localhost:8080/noovi_cloud_solutions/data/portuguese/phrases/msg004.wav"/> 
+19:</prompt> 
+20:<choice  dtmf="1" accept="exact" next="#choice0"> 
+21:</choice> 
+22:<choice  dtmf="2" accept="exact" next="#choice1"> 
+23:</choice> 
+24:<choice  dtmf="3" accept="exact" next="#choice2"> 
+25:</choice> 
+26:<choice  dtmf="9" accept="exact" next="#choice3"> 
+27:</choice> 
+28:<catch event="noinput"> 
+29:<assign name="_avayaNoinputCounter" expr="_avayaNoinputCounter + 1"/> 
+30:<if cond="typeof(menu_opcoes___noinputcount) == 'undefined' || typeof(menu_opcoes___nomatchcount) == 'undefined'"> 
+31:    <submit next="check_tentativas_1?___DDSESSIONID=BFC42899868DB3DFCDDF8840BDEE83BA%3A%2Fnoovi_cloud_solutions"/> 
+32:<else/> 
+33:    <assign name="menu_opcoes___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+34:    <assign name="menu_opcoes___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+35:    <submit next="check_tentativas_1?___DDSESSIONID=BFC42899868DB3DFCDDF8840BDEE83BA%3A%2Fnoovi_cloud_solutions" namelist="menu_opcoes___noinputcount menu_opcoes___nomatchcount" method="post" enctype="multipart/form-data"/> 
+36:</if> 
+37:</catch> 
+38:<catch event="nomatch"> 
+39:<assign name="_avayaNomatchCounter" expr="_avayaNomatchCounter + 1"/> 
+40:<if cond="typeof(menu_opcoes___noinputcount) == 'undefined' || typeof(menu_opcoes___nomatchcount) == 'undefined'"> 
+41:    <submit next="check_tentativas_1?___DDSESSIONID=BFC42899868DB3DFCDDF8840BDEE83BA%3A%2Fnoovi_cloud_solutions"/> 
+42:<else/> 
+43:    <assign name="menu_opcoes___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+44:    <assign name="menu_opcoes___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+45:    <submit next="check_tentativas_1?___DDSESSIONID=BFC42899868DB3DFCDDF8840BDEE83BA%3A%2Fnoovi_cloud_solutions" namelist="menu_opcoes___noinputcount menu_opcoes___nomatchcount" method="post" enctype="multipart/form-data"/> 
+46:</if> 
+47:</catch> 
+48:<catch event="connection.disconnect"> 
+49:<if cond="typeof(menu_opcoes___noinputcount) == 'undefined' || typeof(menu_opcoes___nomatchcount) == 'undefined'"> 
+50:    <submit next="AvayaDefaultDisconnectHandler?___DDSESSIONID=BFC42899868DB3DFCDDF8840BDEE83BA%3A%2Fnoovi_cloud_solutions"/> 
+51:<else/> 
+52:    <assign name="menu_opcoes___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+53:    <assign name="menu_opcoes___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+54:    <submit next="AvayaDefaultDisconnectHandler?___DDSESSIONID=BFC42899868DB3DFCDDF8840BDEE83BA%3A%2Fnoovi_cloud_solutions" namelist="menu_opcoes___noinputcount menu_opcoes___nomatchcount" method="post" enctype="multipart/form-data"/> 
+55:</if> 
+56:</catch> 
+57:</menu> 
+58:<form id="choice0"> 
+59:<block> 
+60:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=BFC42899868DB3DFCDDF8840BDEE83BA%3A%2Fnoovi_cloud_solutions'"/> 
+61:<goto next="#ddfinish"/> 
+62:</block> 
+63:<catch event="connection.disconnect"> 
+64:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=BFC42899868DB3DFCDDF8840BDEE83BA%3A%2Fnoovi_cloud_solutions"/> 
+65:</catch> 
+66:</form> 
+67:<form id="choice1"> 
+68:<block> 
+69:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=BFC42899868DB3DFCDDF8840BDEE83BA%3A%2Fnoovi_cloud_solutions'"/> 
+70:<goto next="#ddfinish"/> 
+71:</block> 
+72:<catch event="connection.disconnect"> 
+73:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=BFC42899868DB3DFCDDF8840BDEE83BA%3A%2Fnoovi_cloud_solutions"/> 
+74:</catch> 
+75:</form> 
+76:<form id="choice2"> 
+77:<block> 
+78:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=BFC42899868DB3DFCDDF8840BDEE83BA%3A%2Fnoovi_cloud_solutions'"/> 
+79:<goto next="#ddfinish"/> 
+80:</block> 
+81:<catch event="connection.disconnect"> 
+82:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=BFC42899868DB3DFCDDF8840BDEE83BA%3A%2Fnoovi_cloud_solutions"/> 
+83:</catch> 
+84:</form> 
+85:<form id="choice3"> 
+86:<block> 
+87:<assign name="ddmenuchoice" expr="'speak_transfere?___DDSESSIONID=BFC42899868DB3DFCDDF8840BDEE83BA%3A%2Fnoovi_cloud_solutions'"/> 
+88:<goto next="#ddfinish"/> 
+89:</block> 
+90:<catch event="connection.disconnect"> 
+91:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=BFC42899868DB3DFCDDF8840BDEE83BA%3A%2Fnoovi_cloud_solutions"/> 
+92:</catch> 
+93:</form> 
+94:<form id="ddfinish"> 
+95:<block> 
+96:<assign name="menu_opcoes___confidence" expr="getnbest('confidence', nbest)"/> 
+97:<assign name="menu_opcoes___utterance" expr="getnbest('utterance', nbest)"/> 
+98:<assign name="menu_opcoes___inputmode" expr="getnbest('inputmode', nbest)"/> 
+99:<assign name="menu_opcoes___interpretation" expr="getnbest('interpretation', nbest)"/> 
+100:<if cond="startswith(menu_opcoes___interpretation, 'undefined') == true "> 
+101:    <assign name="menu_opcoes___interpretation" expr="getnbest('interpretation', nbest)"/> 
+102:</if> 
+103:<assign name="menu_opcoes___value" expr="menu_opcoes___interpretation"/> 
+104:<assign name="menu_opcoes___noinputcount" expr="getnbestnmni(_avayaNoinputCounter, nbest)"/> 
+105:<assign name="menu_opcoes___nomatchcount" expr="getnbestnmni(_avayaNomatchCounter, nbest)"/> 
+106:<submit expr="ddmenuchoice" namelist="menu_opcoes___value menu_opcoes___confidence menu_opcoes___utterance menu_opcoes___inputmode menu_opcoes___interpretation menu_opcoes___noinputcount menu_opcoes___nomatchcount "  method="post"/> 
+107:</block> 
+108:<catch event="connection.disconnect"> 
+109:<goto  next="AvayaDefaultDisconnectHandler?___DDSESSIONID=BFC42899868DB3DFCDDF8840BDEE83BA%3A%2Fnoovi_cloud_solutions"/> 
+110:</catch> 
+111:</form> 
+112:</vxml> 
+113:
+
+04/04/2022 16:58:13:161  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Using SCESession BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions servlet : AvayaDefaultDisconnectHandler
+04/04/2022 16:58:13:172  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :menu_opcoes___nomatchcount to complex: menu_opcoes:nomatchcount  as [0]
+04/04/2022 16:58:13:172  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Storing :menu_opcoes___noinputcount to complex: menu_opcoes:noinputcount  as [0]
+04/04/2022 16:58:13:231 DEBUG - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : *** Reply for [/noovi_cloud_solutions/AvayaDefaultDisconnectHandler] ***
+04/04/2022 16:58:13:231 DEBUG - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="pt-br"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.22.10.04"/> 
+4:<meta name="runtimecommon-version" content="07.22.10.04"/> 
+5:<meta name="copyright" content="Copyright (c) 2002-2018, Avaya"/> 
+6:<var name="_avayaExitReason" expr="''"/> 
+7:<var name="_avayaExitInfo1" expr="''"/> 
+8:<var name="_avayaExitInfo2" expr="''"/> 
+9:<var name="_avayaExitCustomerId" expr="''"/> 
+10:<var name="_avayaExitPreferredPath" expr="'1'"/> 
+11:<var name="_avayaExitTopic" expr="''"/> 
+12:<var name="_avayaExitParentId" expr="''"/> 
+13:<form id="DefaultDisconnect"> 
+14:<block> 
+15:<exit namelist="_avayaExitReason _avayaExitInfo1 _avayaExitInfo2 _avayaExitCustomerId _avayaExitPreferredPath _avayaExitTopic _avayaExitParentId"/> 
+16:</block> 
+17:<catch event="connection.disconnect"> 
+18:    <exit namelist="_avayaExitReason _avayaExitInfo1 _avayaExitInfo2 _avayaExitCustomerId _avayaExitPreferredPath _avayaExitTopic _avayaExitParentId"/> 
+19:</catch> 
+20:<block> 
+21:</block> 
+22:</form> 
+23:</vxml> 
+24:
+
+04/04/2022 16:58:13:241  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Removing session from AvayaSessionTermination Servlet
+04/04/2022 16:58:13:246  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+04/04/2022 16:58:13:246  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : HTTP Session lost removing SCESession BFC42899868DB3DFCDDF8840BDEE83BA
+04/04/2022 16:58:13:246  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : SCESession Removed
+04/04/2022 16:58:13:246 DEBUG - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : Removing 1 session stack frames.
+04/04/2022 16:58:13:246  INFO - BFC42899868DB3DFCDDF8840BDEE83BA:/noovi_cloud_solutions : ** Popped Stack Frame [/noovi_cloud_solutions]

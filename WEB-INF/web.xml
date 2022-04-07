@@ -24,7 +24,7 @@ Copyright 2004-2018 Avaya Inc.
     </context-param>
     <context-param>
         <param-name>runtime-ASR</param-name>
-        <param-value>Desktop Microsoft Speech SAPI</param-value>
+        <param-value>SRGS-Literals</param-value>
         <description>Runtime ASR {SRGS-Literals|SRGS-SISR|Nuance OSR|IBM|...}</description>
     </context-param>
     <context-param>
@@ -39,7 +39,7 @@ Copyright 2004-2018 Avaya Inc.
     </context-param>
     <context-param>
         <param-name>runtime-Platform</param-name>
-        <param-value>Desktop</param-value>
+        <param-value>Experience Portal</param-value>
         <description>Runtime Platform {Desktop|Experience Portal|Other|IR|MPS}</description>
     </context-param>
     <context-param>
@@ -95,17 +95,68 @@ Copyright 2004-2018 Avaya Inc.
         <servlet-name>AppRoot</servlet-name>
         <servlet-class>flow.AppRoot</servlet-class>
     </servlet>
-    <servlet id="SAGE-callflow-servlet_main_3">
-        <servlet-name>untitledDisconnect1</servlet-name>
-        <servlet-class>flow.untitledDisconnect1</servlet-class>
-    </servlet>
-    <servlet id="SAGE-callflow-servlet_main_6">
-        <servlet-name>untitledReturn1</servlet-name>
-        <servlet-class>flow.untitledReturn1</servlet-class>
-    </servlet>
+    
+    
     <servlet id="SAGE-callflow-servlet_main_0">
         <servlet-name>Start</servlet-name>
         <servlet-class>flow.Start</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_17">
+        <servlet-name>end</servlet-name>
+        <servlet-class>flow.end</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_9">
+        <servlet-name>speak_tarde</servlet-name>
+        <servlet-class>flow.speak_tarde</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_14">
+        <servlet-name>quit</servlet-name>
+        <servlet-class>flow.quit</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_21">
+        <servlet-name>menu_opcoes</servlet-name>
+        <servlet-class>flow.menu_opcoes</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_33">
+        <servlet-name>check_tentativas_1</servlet-name>
+        <servlet-class>flow.check_tentativas_1</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_50">
+        <servlet-name>speak_opcao_invalida</servlet-name>
+        <servlet-class>flow.speak_opcao_invalida</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_44">
+        <servlet-name>speak_excedeu_tentativas</servlet-name>
+        <servlet-class>flow.speak_excedeu_tentativas</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_57">
+        <servlet-name>speak_transfere</servlet-name>
+        <servlet-class>flow.speak_transfere</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_67">
+        <servlet-name>check_hora</servlet-name>
+        <servlet-class>flow.check_hora</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_82">
+        <servlet-name>speak_dia</servlet-name>
+        <servlet-class>flow.speak_dia</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_86">
+        <servlet-name>speak_noite</servlet-name>
+        <servlet-class>flow.speak_noite</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_107">
+        <servlet-name>transfer</servlet-name>
+        <servlet-class>flow.transfer</servlet-class>
+    </servlet>
+    
+    <servlet id="SAGE-callflow-servlet_main_159">
+        <servlet-name>untitledTransfer2</servlet-name>
+        <servlet-class>flow.untitledTransfer2</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_168">
+        <servlet-name>tracking</servlet-name>
+        <servlet-class>flow.tracking</servlet-class>
     </servlet>
     <servlet-mapping id="avayadefaultdisconnecthandler-servletmapping">
         <servlet-name>AvayaDefaultDisconnectHandler</servlet-name>
@@ -135,16 +186,66 @@ Copyright 2004-2018 Avaya Inc.
         <servlet-name>AppRoot</servlet-name>
         <url-pattern>/AppRoot</url-pattern>
     </servlet-mapping>
-    <servlet-mapping id="SAGE-callflow-servletmapping_main_3">
-        <servlet-name>untitledDisconnect1</servlet-name>
-        <url-pattern>/untitledDisconnect1</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping id="SAGE-callflow-servletmapping_main_6">
-        <servlet-name>untitledReturn1</servlet-name>
-        <url-pattern>/untitledReturn1</url-pattern>
-    </servlet-mapping>
+    
+    
     <servlet-mapping id="SAGE-callflow-servletmapping_main_0">
         <servlet-name>Start</servlet-name>
         <url-pattern>/Start</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_17">
+        <servlet-name>end</servlet-name>
+        <url-pattern>/end</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_9">
+        <servlet-name>speak_tarde</servlet-name>
+        <url-pattern>/speak_tarde</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_14">
+        <servlet-name>quit</servlet-name>
+        <url-pattern>/quit</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_21">
+        <servlet-name>menu_opcoes</servlet-name>
+        <url-pattern>/menu_opcoes</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_33">
+        <servlet-name>check_tentativas_1</servlet-name>
+        <url-pattern>/check_tentativas_1</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_50">
+        <servlet-name>speak_opcao_invalida</servlet-name>
+        <url-pattern>/speak_opcao_invalida</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_44">
+        <servlet-name>speak_excedeu_tentativas</servlet-name>
+        <url-pattern>/speak_excedeu_tentativas</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_57">
+        <servlet-name>speak_transfere</servlet-name>
+        <url-pattern>/speak_transfere</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_67">
+        <servlet-name>check_hora</servlet-name>
+        <url-pattern>/check_hora</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_82">
+        <servlet-name>speak_dia</servlet-name>
+        <url-pattern>/speak_dia</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_86">
+        <servlet-name>speak_noite</servlet-name>
+        <url-pattern>/speak_noite</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_107">
+        <servlet-name>transfer</servlet-name>
+        <url-pattern>/transfer</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_159">
+        <servlet-name>untitledTransfer2</servlet-name>
+        <url-pattern>/untitledTransfer2</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_168">
+        <servlet-name>tracking</servlet-name>
+        <url-pattern>/tracking</url-pattern>
     </servlet-mapping>
 </web-app>
