@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<phraseset audiolocation="internal" filename="audio" version="">
+<phraseset audiolocation="internal" filename="audio" version="1.0">
     <phrase version="1.0">
         <displayname>msg001</displayname>
         <talent/>
@@ -62,5 +62,68 @@
         <searchkeywords/>
         <comments/>
         <audiofile>msg007.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg008</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg008.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg009</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg009.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg010</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg010.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg011</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg011.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg012</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg012.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg013</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg013.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg014</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg014.wav</audiofile>
     </phrase>
 </phraseset>
