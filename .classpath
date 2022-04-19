@@ -9,5 +9,6 @@
 	<classpathentry kind="src" path="WEB-INF/src"/>
 	<classpathentry kind="lib" path="WEB-INF/lib/scert-07.22.10.04.jar"/>
 	<classpathentry kind="var" path="TOMCAT_HOME/lib/scertcommon-07.22.10.04.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/adminvar-rt-07.22.10.04.jar"/>
 	<classpathentry kind="output" path="WEB-INF/classes"/>
 </classpath>

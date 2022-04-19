@@ -126,4 +126,193 @@
         <comments/>
         <audiofile>msg014.wav</audiofile>
     </phrase>
+    <phrase version="1.0">
+        <displayname>msg015</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg015.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg016</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg016.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg017</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg017.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg018</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg018.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg019_a</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg019_a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg019_b</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg019_b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg019_c</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg019_c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg020_a</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg020_a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg020_b</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg020_b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg020_c</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg020_c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg021</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg021.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg022_a</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg022_a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg022_b</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg022_b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg022_c</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg022_c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg022_d</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg022_d.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg022_e</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg022_e.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg022_f</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg022_f.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg023</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg023.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg024</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg024.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg025</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg025.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>msg026</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>msg026.wav</audiofile>
+    </phrase>
 </phraseset>

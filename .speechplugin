@@ -82,6 +82,19 @@
                 </propertystore>
             </nestedpropertystore>
         </propertystore>
+        <propertystore id="pluggableconnectors" version="1.0">
+            <propertymap/>
+            <nestedpropertystore>
+                <propertystore id="comavayavpadminVariables" version="1.0">
+                    <propertymap>
+                        <property name="displayName" value="AVP/AEP Configurable Application Variables" version="1.0"/>
+                        <property name="connectorId" value="com.avaya.vp.adminVariables" version="1.0"/>
+                        <property name="currentVersion" value="1" version="1.0"/>
+                    </propertymap>
+                    <nestedpropertystore/>
+                </propertystore>
+            </nestedpropertystore>
+        </propertystore>
         <propertystore id="prompts" version="1.0">
             <propertymap>
                 <property name="timeout_presentation" value="constant" version="1.0"/>
