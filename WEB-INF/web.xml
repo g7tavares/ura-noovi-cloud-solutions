@@ -39,7 +39,7 @@ Copyright 2004-2018 Avaya Inc.
     </context-param>
     <context-param>
         <param-name>runtime-Platform</param-name>
-        <param-value>Desktop</param-value>
+        <param-value>Experience Portal</param-value>
         <description>Runtime Platform {Desktop|Experience Portal|Other|IR|MPS}</description>
     </context-param>
     <context-param>
